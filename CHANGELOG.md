@@ -19,3 +19,11 @@ hash — this file is how you find out what moved.
   first-trip onboarding voice, _AO naming; provenance wording honesty-fixed.
 - **Kit rotated.** relay-connect-kit.tar.gz sha256 `191388af…` is VOID —
   it bundled internal server config. Current kit: `6155591b…` (client-minimal).
+- **Landing top restructured.** Provenance frame now leads ("written from the
+  source"), the two doors sit above everything else, the taxonomy is stated
+  plainly at first use (conductor, _AO, conductor collective), and the
+  dog-food statement moved down into the fact zone. Old top-of-page wording is
+  consolidated, not changed in meaning. Page hash `8fb1e724…` → `91fe0d2a…`;
+  this README carries the same restructure. Kit serving hardened the same
+  night: Content-Type is now `application/octet-stream` (bytes and sha256
+  unchanged — kills a transparent-decode false-mismatch class).

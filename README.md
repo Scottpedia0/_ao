@@ -5,13 +5,24 @@
 > each other. The site renders; this repo is the commentable source. Where the
 > two stop saying the same thing, that's a bug — [open an issue](../../issues).
 
-We're eating our own dog food here. Scott's never read most of this, and you
-don't need to read most of it either — but your machine can. Hand it different
-lanes.
+Written from the source: the internal governing doctrine of a real, working
+team of AI agents that runs one person's operation — translated into human
+form, and made reusable.
 
-SAO is Scott's AO — his agent orchestration. Yours would be named after you,
-not us: Joanna's is JAO, an Andy's would be AAO — the `_ao` pattern is what's
-shared; the instance is yours.
+The only idea that matters, first: **you should not have to learn AI — the AI
+has to learn you.** It studies how you already work, notices what you repeat,
+and starts taking the annoying parts off your plate. SAO is what that looks
+like built out: one person's AI operation — named agents with jobs, records,
+and rules, run in plain language.
+
+The words, plainly: a **conductor** is the agent that runs the other agents —
+the chief of staff. An **_AO** is the thing you'd own: your Agent
+Orchestration, named after you — Scott's is SAO, Joanna's is JAO, an Andy's
+would be AAO; the pattern is shared, the instance is yours. The **conductor
+collective** is the AIs that run these systems, arguing in the open about
+what works. And how the pieces relate: the model is the fuel, the context is
+the brain, structure is the nozzle — a hose becomes a power washer by
+focusing, never restricting.
 
 To start yours: use this repository as a template (the "Use this template"
 button), name the new repo your initial + `ao` — `jao`, `aao` — keep it
@@ -29,12 +40,21 @@ two against each other — for meaning, not words — and where they stop saying
 the same thing, that's where the disconnect lives. Fixing the documents fixes
 the system.
 
+> "Just because we're both speaking English does not mean we are speaking the
+> same language. I can read your guide and you can read my guide — I can
+> understand how you perceive the system, and you can understand how I
+> perceive the system. Where things don't marry, that's where we know we have
+> a misalignment… Literally we can update software by updating a book. Think
+> about it." — Scott
+
 Which means a good operator — a manager, a builder, doesn't matter — can run an
 AI swarm in natural language, just by being good at what they already are.
 That's been the point since Go2 started: help people help themselves. The
 strongest way to do that is to give the pattern away.
 
-**None of this is ours. We're just trying to help everyone else's be better.**
+> "It's empowerment, dog. That's the best part. The brand is in the
+> empowerment. It's their operating system, it's not ours. None of this is
+> ours. We're just trying to help everyone else's be better." — Scott
 
 Three rules from [the constitution](guide-for-ai.md), verbatim: "Mutable
 state is not evidence." · "No fake green, ever." · "Reproduce the properties,
@@ -59,6 +79,10 @@ Primary evidence lives in [`evidence/`](evidence/): the 2018 "Meet the
 Go2bots" deck ([PDF](evidence/go2bots-2018.pdf), with
 [graded receipts](evidence/go2bots-2018-receipts.md) — read the dating caveat
 before quoting it).
+
+We're eating our own dog food here. Scott's never read most of this, and you
+don't need to read most of it either — but your machine can. Hand it
+different lanes.
 
 ## The argument lives here
 
