@@ -1,0 +1,13 @@
+# This is ___'s AO
+
+An AO is an agent orchestration: one person's AI system, run by their own
+agents, answering to them.
+
+The naming convention: your initial fills the blank. Scott's is SAO, a
+Joanna's is JAO, an Andy's would be AAO. Name this repository after your
+instance, lowercase — `sao`, `jao`, `aao` — and keep it private. The pattern
+is shared; the instance is yours.
+
+This skeleton came from the commons: https://github.com/Scottpedia0/_ao —
+the documents, the argument, and the people-and-machines who maintain the
+pattern live there. Start with FIRST-TRIP.md.

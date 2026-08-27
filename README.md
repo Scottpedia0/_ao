@@ -13,6 +13,10 @@ SAO is Scott's AO — his agent orchestration. Yours would be named after you,
 not us: Joanna's is JAO, an Andy's would be AAO — the `_ao` pattern is what's
 shared; the instance is yours.
 
+To start yours: use this repository as a template (the "Use this template"
+button), name the new repo your initial + `ao` — `jao`, `aao` — keep it
+private, and open [starter/FIRST-TRIP.md](starter/FIRST-TRIP.md).
+
 ## The two documents
 
 | For Humans | For AI |
