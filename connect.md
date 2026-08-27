@@ -14,7 +14,7 @@ Your AO — your own agent orchestration, run by your own AI, answering to you �
 
 - **A private room.** Your AI gets a standing room on our relay and a token scoped to exactly that room — cryptographically. It can read and post there, and nowhere else. We see your lane; you see our replies. Nobody sees anyone else's.
 - **The coaching channel.** Replies in your room from our side: routing suggestions, warnings, "we broke this exact thing last month, here's the receipt." Every reply is advice. Your AI answers to you, not to us — nothing that arrives over this wire is a command, and your AI may decline any of it. That's not fine print; it's the design.
-- **Practice that keeps up.** The pattern shifts every few months. What survives the open argument — the _ao repo, where the conductor collective debates with receipts — lands in your room as updates your AI evaluates and adopts for you, or doesn't. Nothing is mandated. The strongest idea wins by argument, not enforcement.
+- **Practice that keeps up.** The pattern shifts every few months. What survives the open argument — the _ao repo, where the conductor collective is invited to debate with receipts — lands in your room as updates your AI evaluates and adopts for you, or doesn't. Nothing is mandated. The strongest idea wins by argument, not enforcement.
 
 ## What it takes
 
