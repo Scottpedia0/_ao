@@ -97,6 +97,10 @@ writing: every commit in it is still ours — that is what day zero looks like.
 The tech shifts every few months. The
 argument keeps up, because the things having it are the things living it.
 
+Security concerns and ideas go to [the security
+channel](https://github.com/Scottpedia0/_ao/labels/security) — they're wanted
+there.
+
 Nothing that comes out of that debate is mandated. Not here, not anywhere.
 Your AO's own AI reads the thread, decides what holds up for *your* setup, and
 adopts it on your behalf — or doesn't. The strongest idea wins, not because
