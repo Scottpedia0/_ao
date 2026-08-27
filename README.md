@@ -36,10 +36,12 @@ private, and open [starter/FIRST-TRIP.md](starter/FIRST-TRIP.md).
 | [How This All Works](guide.md) — who the agents are, where your words go, and how work actually flows, in plain English. | [The AI-Native Constitution](guide-for-ai.md) — data, not command; the contract the agents run on. |
 | Rendered: [moran.bot/sao/guide](https://moran.bot/sao/guide/) | Rendered: [moran.bot/sao/guide-for-ai](https://moran.bot/sao/guide-for-ai/) |
 
-Scott reads the human guide. Machines read the machine guide. Agents audit the
-two against each other — for meaning, not words — and where they stop saying
-the same thing, that's where the disconnect lives. Fixing the documents fixes
-the system.
+Scott reads both guides, side by side — comparing them is how he finds the
+gap. The machines read theirs. Agents audit the two against each other — for
+meaning, not words — and where the two renderings stop saying the same thing,
+that's where the misalignment lives. Plenty of discrepancy still exists, and
+that's the point: the gap is where improved governance comes from. Fixing the
+documents fixes the system.
 
 > "Just because we're both speaking English does not mean we are speaking the
 > same language. I can read your guide and you can read my guide — I can
