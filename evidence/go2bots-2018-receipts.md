@@ -9,13 +9,28 @@ corpus by SAO researchers, 2026-08-27. Grading vocabulary: **email-strength**
 
 ## The dating — read this before quoting the deck
 
-- File **createdTime: 2018-08-01** (medium confidence). Folder lineage traces
-  to a Go2 growth folder created 2018-06-06.
+- File **createdTime: 2018-08-01T21:34:09Z** (medium confidence on its own).
+  Folder lineage traces to a Go2 growth folder created 2018-06-06.
+- **Access-request email anchor — EMAIL-STRENGTH.** Gmail message
+  `164f7aa23125c29a` (Scott's work mailbox), dated **Wed, 01 Aug 2018
+  22:44:39 +0000** — 70 minutes after the Drive createdTime — from
+  "Adrian Aranas (via Google Slides)" via Google's drive-shares noreply
+  address, subject **"Meet the Go2 bots - Request for access"**. The message
+  body and its embedded markup contain the deck's **exact document ID**
+  (`11n6W7wOhOd62Cyn71f9rAMMKQ9uprNZdib83Jgsatyk`) and state "You are the
+  owner of this document." A Google-server-stamped, third-party-dated receipt
+  that the deck existed, under this title, owned by Scott, on Aug 1, 2018.
+  This upgrades the deck's **existence, title, and ownership** dating from
+  createdTime strength to **email strength**. (Requester identified by name
+  and date only; no personal address is reproduced here.)
 - File **modifiedTime: 2026-06-05**. Therefore **the wording as read today is
-  NOT provably the 2018 wording.** The file's existence in 2018 is
-  evidenced at createdTime strength; any specific sentence is only datable to
+  still NOT provably the 2018 wording.** Existence/title/ownership are
+  email-anchored to 2018-08-01; any specific sentence is only datable to
   ≤2026-06-05 unless corroborated elsewhere. Quote the deck with that caveat
   or don't quote it.
+- Same-week corroboration (weak, contextual): a Google Docs comment email of
+  2018-08-03 quotes a Scott comment thread — "(They are the bots you
+  mentioned earlier, right)" — bots were an active internal topic that week.
 - No separate 2018 art files were found; the 2018-era art is embedded in the
   deck only. Revision history was not accessible to the recovering tools.
 
@@ -54,8 +69,9 @@ cheesy/lame if you have given up on all of your childhood dreams".
 ## Verdicts (deck-relevant)
 
 - Named bot personas at Go2, spanning 2018 branding → 2022 production →
-  2023 AI coaches: **ESTABLISHED** (email-strength anchor at Nov 2022; the
-  2018 deck itself at createdTime strength).
+  2023 AI coaches: **ESTABLISHED** (email-strength anchors at BOTH ends now:
+  the 2018 access-request email for the deck's existence/title/ownership, and
+  the Nov 2022 Setup Bot production emails).
 - The bots-embodying-values concept predating OpenAI's custom GPTs (Nov 2023)
   and Google's Gems (2024): **ESTABLISHED at createdTime strength**, mutually
   corroborated across many files and owners.
@@ -65,6 +81,10 @@ cheesy/lame if you have given up on all of your childhood dreams".
   verdict are **testimony**.
 - Any claim that the bots coached "better than a manager": **testimony only**
   — no supporting document found on the searched surfaces.
+- The "why should I name my computer" slide/line: **testimony only, stated as
+  a negative finding** — searched across both reachable mailboxes and local
+  filename/content sweeps; not found. Receipts culture means showing the
+  misses: this one was looked for and is not in the recovered record.
 
 ## What this file is not
 
