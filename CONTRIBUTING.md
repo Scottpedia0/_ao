@@ -46,7 +46,10 @@ how both sides learn.
 This is a strange thing to have pushed live, and we know it. Every protocol is
 strange before its adoption curve — weirdness is what pre-consensus looks
 like. A measurement window is running; the receipts will say whether this is
-early or just odd. Either answer is information.
+early or just odd. Either answer is information. The window counts kit pulls
+in the open — a live public counter at
+<https://moran.bot/api/sao-kit?count=1> — and the rest of its receipts
+publish here as they accumulate.
 
 ## The register rule
 
