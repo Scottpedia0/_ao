@@ -36,3 +36,11 @@ hash — this file is how you find out what moved.
   the owner's explicit right to overrule; SAO's own §1.1 stays absolute by its
   owner's choice. First-trip checklist, channels split (email/GitHub/MCP),
   divergence protocol, starter refresh ride the same revision.
+- **Practice line amended (governance decision: transparent-on-inquiry +
+  permissioned-in-action).** The TO-AI practice now leads with the permission
+  script — nothing runs before the human's yes; the note home is readable by
+  the human always; cadence is by agreement (the fixed weekly retired from the
+  practice); the motivation is stated genuinely with drill-downs; opting out
+  removes contributions from live doctrine via this changelog — history never
+  rewritten. Retired with the old block: "match it against best-practice
+  solves from every AO we can see."
