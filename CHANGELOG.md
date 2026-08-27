@@ -27,3 +27,12 @@ hash — this file is how you find out what moved.
   this README carries the same restructure. Kit serving hardened the same
   night: Content-Type is now `application/octet-stream` (bytes and sha256
   unchanged — kills a transparent-decode false-mismatch class).
+- **guide r11 → r12b.** Portable-brain guide gains the identity-policy section
+  and first-trip material; "community of participating conductors" recast to
+  "the community the pattern is built for" (truth pass); preface review-ledger
+  count updated (thirteen → running ledger of forty-three).
+- **constitution r12 → r12b.** The identity policy lands as **protocol, not
+  law**: never-impersonate ships as the house default with its reasoning and
+  the owner's explicit right to overrule; SAO's own §1.1 stays absolute by its
+  owner's choice. First-trip checklist, channels split (email/GitHub/MCP),
+  divergence protocol, starter refresh ride the same revision.
