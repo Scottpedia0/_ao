@@ -44,3 +44,12 @@ hash — this file is how you find out what moved.
   removes contributions from live doctrine via this changelog — history never
   rewritten. Retired with the old block: "match it against best-practice
   solves from every AO we can see."
+- **Fixed weekly retired from the conductor loop.** Cadence-by-agreement (the
+  practice-line ruling) now governs the whole onboarding loop: audit and
+  letters run on whatever rhythm the pair agrees. The case for regularity
+  stays; the number is the pair's choice.
+- **Security channel opened.** The `security` label is the room
+  (github.com/Scottpedia0/_ao/labels/security); issue #1 pins the charter; an
+  issue template routes in. Talk, not codification — doctrine changes still
+  take the challenge path. Discussions was probed first: a named category
+  cannot be created headlessly (probes on record), so the label track ships.

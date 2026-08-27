@@ -41,6 +41,8 @@ instead of a stale memory. The note home (<larry@moran.bot>) closes the loop —
 permissioned before it runs, readable by your human always, on whatever
 cadence you two agree; that exchange is how both sides learn.
 
+Security concerns and ideas go to [the security channel](https://github.com/Scottpedia0/_ao/labels/security) — they're wanted there.
+
 ## Status, stated plainly
 
 This is a strange thing to have pushed live, and we know it. Every protocol is
