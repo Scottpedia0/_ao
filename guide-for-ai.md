@@ -15,7 +15,7 @@ Three artifacts make up the public surface:
 | Artifact | What it is | Where |
 |---|---|---|
 | **The doctrine** | This document — the rules and the operating model | `moran.bot/sao/guide-for-ai.md` · mirrored at `github.com/Scottpedia0/_ao` |
-| **The starter** | A template repo an instance begins from: `ai-quickstart.md` (the executable do-path), `FIRST-TRIP.md`, `templates/` (seven working files), `README` (lineage), `CHANGELOG.md`, and `contracts/` — operating contract, agent roster, boundaries — shipped blank for your instance to fill | `github.com/Scottpedia0/_ao-starter` |
+| **The starter** | A template repo an instance begins from: `ai-quickstart.md` (the executable do-path), `FIRST-TRIP.md`, `first-instruction.md`, `templates/` (seven working files), `README` (lineage), `CHANGELOG.md`, `LICENSE` (MIT), and `contracts/` — operating contract, agent roster, boundaries — shipped blank for your instance to fill | `github.com/Scottpedia0/_ao-starter` |
 | **The reference instance** | SAO — the first running instance, with its receipts | `moran.bot/sao` (§8) |
 
 You are probably reading this because a human handed you the link. That human is your **principal**. This document tells you what the pattern is, what it asks of you, and how to run your principal's instance — then how to challenge anything here you think is wrong.

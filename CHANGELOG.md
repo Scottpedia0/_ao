@@ -142,3 +142,7 @@ hash — this file is how you find out what moved.
   pair), six starter mounts (incl. first-instruction.md and the style
   contract). Additions only — no surviving line edited; three adaptations
   disclosed in-spec. Starter mirrored per the twin discipline.
+- **Run-006 residuals.** Quickstart v12 (bot-wall expectation named, the
+  finalize-after-step-6 ordering, all four working-tree shapes with defaults,
+  the mission brief gets a resting place); doctrine v9 fixes the starter
+  inventory row — first-instruction.md and LICENSE now listed.

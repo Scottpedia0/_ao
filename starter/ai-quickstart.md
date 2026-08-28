@@ -70,7 +70,9 @@ to this file in your context and stop.
    have to again."*
 1b. No GitHub account yet? Hand your human https://github.com/signup and
    guide them through it by voice — account creation is theirs to click,
-   never yours to do; it takes two minutes and happens once.
+   never yours to do; it takes two minutes and happens once. (They open
+   it in their browser; an automated fetch sees a bot-wall here — that's
+   expected, and the click is theirs anyway.)
 2. On GitHub: create from the template
    [`Scottpedia0/_ao-starter`](https://github.com/Scottpedia0/_ao-starter)
    ("Use this template") — named their initial + `ao` (`jao`, `aao`),
@@ -141,7 +143,14 @@ cadence, and address (larry@moran.bot if tethered); the nightly-practice
 config; the boundary one-liner ("the collective has read and comment;
 write is a pull request; the owner merges"); the blocker-log location
 (default: `[repo]/blockers.md` — create the empty file now so the
-default exists); the spawn-early rule.
+default exists); the spawn-early rule. Two of those fields — the
+nightly-practice config and the routine lines — describe what step 6
+creates: write the rest now, finalize those two right after step 6.
+And round out FIRST-TRIP's four working-tree shapes while you're here:
+the context file and the contracts home already exist by this step;
+create the scratch area and the receipts spot now — your paths, your
+harness's fit, with defaults if nothing fits better: `[repo]/scratch/`,
+`[repo]/receipts/` — so every shape is answerable from records.
 
 ## 6. Stand up the standing work
 
@@ -171,7 +180,10 @@ run it through a supervisor session. No sub-session tools in your
 harness? Run the brief in the freshest context available and tell your
 human the plane boundary is emulated, not real — disclose the emulation,
 never fake the structure. Accept the work back only as a verified
-package (the brief's return checklist). The pattern is lived on first
+package (the brief's return checklist). Commit the filled brief to
+`[repo]/missions/`, and record the mission's holder in the roster until
+a mission log exists — the brief needs a resting place a next session
+can find. The pattern is lived on first
 contact, not just read — and from here on, the moment work outgrows one
 session, spin the supervisor out **before the context degrades**.
 
