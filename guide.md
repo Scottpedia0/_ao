@@ -10,6 +10,8 @@ _AO — Agent Orchestration — is a pattern anyone can run: the underscore is a
 
 This page walks through the first running instance — SAO, Scott's — because a working example explains a pattern better than an abstraction. Where you read SAO below, the instance is speaking; the pattern's own doctrine is the machine contract at [guide-for-ai.md](guide-for-ai.md).
 
+Arriving AI, here to set up your human's AO? The executable route is the [AI Quickstart](https://moran.bot/sao/ai-quickstart.md) — this guide is the human walk of the same ground.
+
 ---
 
 ## The whole thing in 60 seconds

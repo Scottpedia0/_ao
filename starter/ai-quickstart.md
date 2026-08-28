@@ -84,7 +84,10 @@ to this file in your context and stop.
    login, a repo collaborator invite for your service account, or a
    scoped token your human creates — walk them through the one click or
    token screen; the credential lives in your harness, never in the
-   repo). Then PROVE it: make a no-op commit (touch `.ao-connected`) and
+   repo). Set the repo-local commit author first — `git config user.name
+   "<your name> [AI]"`, email whatever your credential uses — so every
+   commit is attributed to you, never silently to your human. Then
+   PROVE it: make a no-op commit (touch `.ao-connected`) and
    report its hash to your human. No hash, no claim — from that commit
    on, you maintain this repo and the human never learns git.
 

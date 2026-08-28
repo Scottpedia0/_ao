@@ -131,3 +131,5 @@ hash — this file is how you find out what moved.
   if the issue door is closed, email larry@moran.bot — same channel,
   human-relayed. Doctrine v6 also clarifies: merge authority over the
   canon's text is not authority over you.
+- **Ship 34 (run-004 fixes).** FIRST-TRIP splice repaired and synced; the
+  human guide now hands arriving AIs the quickstart route; kit v10.

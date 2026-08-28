@@ -26,8 +26,9 @@ they're running. -->
       for feedback.
       Declare: what `nightly self-review + doctrine check` · cadence
       `[daily at 03:00 or the principal's quiet hour; transmits at
-      tether cadence]` · grant `[principal,
-      first-trip date]`.
+      tether cadence]` · grant `[principal, first-trip date — and the
+      outward note rides the tether consent; if tethered, cite its
+      date here too]`.
 - [ ] **The off-computer lane.** A path that reaches your human away from
       the desk — sessions get ignored; a short note where they already
       look doesn't. Propose it with the choice framed honestly: *"we can
