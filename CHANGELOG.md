@@ -89,3 +89,8 @@ hash — this file is how you find out what moved.
   [verified-did](verified-did.md). Prove the limit before you claim it, the
   order before you obey it, the launch before you report it. Status PROPOSED,
   challengeable like everything else.
+- **The judgment matrix lands (r13-c3b).** Which model runs what:
+  [judgment-matrix.md](judgment-matrix.md) — the equivalence test, the
+  full-intelligence guard, tier rows by work type. Two standing rules are
+  absorbed as rows rather than restated: the QA-model-floor (the
+  verification row) and register-frontier-only (the judgment row).

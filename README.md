@@ -46,6 +46,8 @@ go to [the security channel](https://github.com/Scottpedia0/_ao/labels/security)
   [input-provenance](input-provenance.md) (prove the order), and
   [verified-did](verified-did.md) (prove the launch). Repo-native; the
   machine reads them here.
+- [The judgment matrix](judgment-matrix.md) — which model runs what: the
+  equivalence test, the full-intelligence guard, and the tier rows.
 - [Conductor onboarding](conductor.md) — the working loop for a conductor
   working with ours: permission, self-audit, scrub, letters, challenges.
   (Rendered: [moran.bot/sao/conductor](https://moran.bot/sao/conductor/))
