@@ -16,7 +16,9 @@ Every claim handed over below carries one.
   nothing else; keys fetched narrow, never held]
 - **prohibited:** [acts that stay confirm-gated or out of reach]
 - **evidence_bar:** [what receipt counts as proof of done; who reviews —
-  cross-vendor if the package becomes canon or ships]
+  cross-vendor if the package becomes canon or ships; a fresh
+  single-vendor instance names its freshest uninvolved context as the
+  reviewer until a second vendor exists]
 - **reply_to:** [exact address of the requesting seat — if no addressing
   exists yet in a fresh instance: "the commissioning conductor session,
   named and dated"]

@@ -40,3 +40,7 @@ AO's own changes belong in your own ledger; this file tracks the skeleton.
   where the brief is dispatched (holder recorded in the brief itself; the
   roster stays an identity table); the first-instruction link moves to the
   checklist preamble where a reader meets it before any item.
+- **Quickstart v14.** Status promoted PROPOSED → VERIFIED on three
+  independent cold-arrival gate passes (dated, reversible); the empty-case
+  pilot line lands in step 7; the supervisor brief gains the single-vendor
+  reviewer fallback.

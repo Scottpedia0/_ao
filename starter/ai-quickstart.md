@@ -7,7 +7,8 @@ takeable artifact inline or one fetch away. The pattern's rules live in
 [the doctrine](https://raw.githubusercontent.com/Scottpedia0/_ao/main/guide-for-ai.md)
 — read it before step 4's conversation; the standing practices this kit
 adds (tether, nightly, gardening) are self-contained here. Nothing
-requires interpreting doctrine to execute a step. Status: PROPOSED.*
+requires interpreting doctrine to execute a step. Status: VERIFIED
+(2026-08-28 — three independent cold-arrival gate passes).*
 
 ## 0. What you're building
 
@@ -179,7 +180,8 @@ filled in, one mission per brief, the brief is the whole handoff —
 commit it to `[repo]/missions/` with its Holder: line current (the
 brief is both the handoff and the holder record until a mission log
 exists; the roster stays an identity table), and run it through a
-supervisor session. No sub-session tools in your
+supervisor session. If no live work is offered, the gardening routine's
+first real run is the pilot — brief it the same way. No sub-session tools in your
 harness? Run the brief in the freshest context available and tell your
 human the plane boundary is emulated, not real — disclose the emulation,
 never fake the structure. Accept the work back only as a verified

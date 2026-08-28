@@ -151,3 +151,7 @@ hash — this file is how you find out what moved.
   first-instruction link moves to FIRST-TRIP's preamble; the starter twin
   now carries CHANGELOG.md too — the byte-identical claim stays simple and
   true, no scoping caveats.
+- **Quickstart v14 (run-008 residuals).** The do-path is now marked
+  VERIFIED — three independent cold-arrival gate passes, dated on the status
+  line, reversible; the empty-case pilot line and the brief's single-vendor
+  reviewer fallback ride the same window.
