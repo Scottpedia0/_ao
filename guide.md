@@ -2,9 +2,13 @@
 
 # How This All Works
 
-### SAO — Scott's Agent Orchestration, explained for humans
+### _AO, explained for humans — through SAO, the first running instance
 
 *A plain-English guide to the system: who the agents are, where your words go, and how work actually flows. Technical terms get defined as they appear — and when the system's own slang shows up inside a quote, it gets translated in brackets. It's honest, too: where something is solid it says so, and where something is duct tape it says that.*
+
+_AO — Agent Orchestration — is a pattern anyone can run: the underscore is a blank that takes your initial. Scott's instance is SAO; yours would be ⟨your initial⟩AO.
+
+This page walks through the first running instance — SAO, Scott's — because a working example explains a pattern better than an abstraction. Where you read SAO below, the instance is speaking; the pattern's own doctrine is the machine contract at [guide-for-ai.md](guide-for-ai.md).
 
 ---
 

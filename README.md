@@ -20,6 +20,8 @@ template — [Scottpedia0/_ao-starter](https://github.com/Scottpedia0/_ao-starte
 Your AI reads THIS repo — the guide, the constitution, CONTRIBUTING — and
 brings the first trip back to you as a conversation.
 
+_AO — Agent Orchestration — is a pattern anyone can run: the underscore is a blank that takes your initial. Scott's instance is SAO; yours would be ⟨your initial⟩AO.
+
 ## The argument lives here
 
 The pattern evolves by challenge, in the open: an issue is a challenge, a

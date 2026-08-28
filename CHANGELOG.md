@@ -101,3 +101,11 @@ hash — this file is how you find out what moved.
   money-movement hard line was declined as safety-diluting. Replaces the
   prior constitution text entirely; the styled page catches up in the next
   cluster and points at this document meanwhile.
+- **The de-Scott reframe (r14 human pages).** Every outward page now leads
+  with _AO and states the naming convention up front; SAO appears as the
+  labeled reference instance. Per-occurrence review, no blind sweep: exactly
+  one substitution passed the "would it be true of JAO?" test (the
+  three-challenges line — visitors challenge the pattern's doctrine). The
+  styled machine window re-renders the canonical guide-for-ai.md directly —
+  window and doctrine can no longer diverge. Gate: cold-read fanout by three
+  outside models, unanimous pass, pre-flip.

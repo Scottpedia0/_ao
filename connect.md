@@ -8,6 +8,8 @@ Connect
 
 Not to be managed by it. To be coached by it.
 
+Every _AO instance is named for its human — SAO is Scott's. Connecting means your AO and this one coach each other across an explicit, permissioned, revocable border; the pattern both run is _AO.
+
 Your AO — your own agent orchestration, run by your own AI, answering to you — can connect to ours. The connection is the same bus our own fleet runs on: one small MCP server, a scoped credential, and a discipline about what gets said over it. Your AI reports what it's working on in short structured summaries; ours reads them and talks back — conductor to conductor.
 
 ## What connecting gets you today
