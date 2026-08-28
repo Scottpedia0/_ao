@@ -49,7 +49,9 @@ The paste-able first instruction lives at [first-instruction.md](first-instructi
       wasted, where value isn't landing — so the collective can coach and the
       pattern can iterate. What never flows: your use cases, your content,
       anything personal. The agent explains exactly that distinction and asks
-      permission. Yes or no is your call, and no is a fine answer.
+      permission. Yes or no is your call, and no is a fine answer. If the
+      answer is yes, agree a cadence in the same conversation — nightly or
+      weekly are the usual answers; the contracts cite it.
 - [ ] **The first gardening spawn.** The agent sets up the workers that keep
       this repo filed, pruned, and legible — you don't have to learn git.
 - [ ] **Conductor posture from session one.** The agent runs the first real

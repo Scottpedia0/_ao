@@ -39,7 +39,9 @@ they're running. -->
       Declare: what `reach the principal off-desk with short notes` · cadence
       `[none of its own — it is the channel the other routines send
       through, plus anything principal-urgent]` · grant `[principal, first-trip
-      date]`.
+      date]`. No sendable channel in this harness? Propose the lane
+      anyway and park it as one line in blockers.md — pending, not
+      forgotten.
 - [ ] **The manifest.** A glanceable status page for your human — "oh
       nifty, now I have a dashboard" — deployed by you, zero cost
       (GitHub Pages class), showing the pair, the declared routines with

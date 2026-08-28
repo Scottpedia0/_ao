@@ -48,3 +48,11 @@ AO's own changes belong in your own ledger; this file tracks the skeleton.
   fallback (`git ls-remote` returns HEAD when the API rate-limits); the
   step-6 summary now names all five spawn-set items and defers to
   spawn-set.md as the checklist.
+- **The consumer window (quickstart v16).** The do-path gains the
+  human-is-the-write-path rung (web editor + hash read-back, the credentialed
+  path intact behind "Otherwise:"), the fetch-only third SHA rung, the
+  read-mirror declaration, and the tether cadence asked at the point of need;
+  the verification stamp is scoped honestly: VERIFIED tool-rich, tool-poor in
+  progress. spawn-set item 4 parks work when no sendable channel exists;
+  `missions/` ships as a real path; FIRST-TRIP's tether item now closes with
+  the cadence agreement.

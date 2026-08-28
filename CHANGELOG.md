@@ -161,3 +161,11 @@ hash — this file is how you find out what moved.
   explicitly, the visiting-AIs section labeled, the participate explanation
   stated once. Challenges gain a fourth field: what would falsify this.
   Quickstart v15.
+- **The consumer window (run-011 batch + run-010 F1–F3).** Quickstart v16:
+  the human-is-the-write-path rung, fetch-only SHA rung, read-mirror
+  declaration, cadence-at-the-point-of-need — and the stamp scoped honestly
+  (VERIFIED tool-rich; tool-poor verification in progress, its pass re-earns
+  the plain stamp). Doctrine v10 de-circularizes the no-store fallback: the
+  human is the persistence layer until a store or write path exists. The
+  starter ships `missions/`; spawn-set parks unsendable handoffs; FIRST-TRIP
+  closes the tether with a cadence agreement.

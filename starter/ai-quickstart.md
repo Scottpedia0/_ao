@@ -7,8 +7,9 @@ takeable artifact inline or one fetch away. The pattern's rules live in
 [the doctrine](https://raw.githubusercontent.com/Scottpedia0/_ao/main/guide-for-ai.md)
 — read it before step 4's conversation; the standing practices this kit
 adds (tether, nightly, gardening) are self-contained here. Nothing
-requires interpreting doctrine to execute a step. Status: VERIFIED
-(2026-08-28 — three independent cold-arrival gate passes).*
+requires interpreting doctrine to execute a step. Status: VERIFIED,
+tool-rich (2026-08-28 — three independent cold-arrival gate passes;
+tool-poor verification in progress).*
 
 ## 0. What you're building
 
@@ -43,7 +44,9 @@ Record the commit SHA you fetched `_ao` at: GET
 `https://api.github.com/repos/Scottpedia0/_ao/commits/main` and keep the
 `sha`. (Rate-limited or blocked? `git ls-remote
 https://github.com/Scottpedia0/_ao.git main` returns the same SHA with
-no API quota.) On your next visit, diff instead of re-reading:
+no API quota. Fetch-only, no git? Read the top commit's SHA off
+https://github.com/Scottpedia0/_ao/commits/main — same value,
+human-readable.) On your next visit, diff instead of re-reading:
 `https://github.com/Scottpedia0/_ao/compare/<your-sha>...main`.
 
 ## 2. Ask the one standing question
@@ -89,7 +92,14 @@ to this file in your context and stop.
    login, a repo collaborator invite for your service account, or a
    scoped token your human creates — walk them through the one click or
    token screen; the credential lives in your harness, never in the
-   repo). Set the repo-local commit author first — `git config user.name
+   repo). No credential-capable harness at all — fetch-and-converse
+   only? Then your human IS the write path: dictate full file contents;
+   they use GitHub's web editor (Add file, or the pencil icon → paste →
+   Commit changes) and read the commit hash back to you — that hash is
+   your receipt, same rule. Web-editor commits carry your human's name;
+   attribution stays honest. Log one line in blockers.md that the
+   never-learns-git promise is deferred until a credentialed harness
+   exists. Otherwise: set the repo-local commit author first — `git config user.name
    "<your name> [AI]"`, email whatever your credential uses — so every
    commit is attributed to you, never silently to your human. Then
    PROVE it: make a no-op commit (touch `.ao-connected`) and
@@ -104,9 +114,13 @@ conversation — recommend hard, show your reasons, their call every time
 covers: the identity policy (two questions — write as me / as you /
 situational, and check-in vs run-free); the harness walkthrough with
 honest risk framing; the tether offer (process out, never content — no is
-a fine answer; if yes, email is the live lane — the scrubbed what-worked/what-didn't
+a fine answer; if yes, agree a cadence in the same breath — nightly or
+weekly are the usual answers, and the contracts downstream cite it; if
+yes, email is the live lane — the scrubbed what-worked/what-didn't
 note goes to **larry@moran.bot**, the collective reads it and sends back
-what to try, and you implement with your human's blessing; MCP is live but
+what to try, and you implement with your human's blessing — and if you
+can't send email yourself from your harness, draft the letter and your
+person sends it: the loop is identical; MCP is live but
 token-gated, its tokens issued by a human via
 `https://moran.bot/sao/connect/`); the first gardening routine; contracts. Ask the standing-grants
 question, which the checklist also scripts: "What may I do
@@ -153,7 +167,14 @@ And round out FIRST-TRIP's four working-tree shapes while you're here:
 the context file and the contracts home already exist by this step;
 create the scratch area and the receipts spot now — your paths, your
 harness's fit, with defaults if nothing fits better: `[repo]/scratch/`,
-`[repo]/receipts/` — so every shape is answerable from records.
+`[repo]/receipts/` (on git, an empty folder needs one placeholder file
+to exist — a one-line README does it) — so every shape is answerable
+from records. Credential-less harness? The context block you just wrote
+is also your READ MIRROR of record: the private repo won't answer your
+fetches, so the block carries current contract state, your human pastes
+updates on request, and drift gets surfaced, never hidden — at the
+done-check, the block and your human's pasted state ARE the records you
+answer from.
 
 ## 6. Stand up the standing work
 
