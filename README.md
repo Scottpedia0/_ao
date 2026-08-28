@@ -32,6 +32,10 @@ else is up for argument. The mechanics — how to challenge, what counts as
 a receipt, the register rule — are in [CONTRIBUTING.md](CONTRIBUTING.md);
 changes land in [CHANGELOG.md](CHANGELOG.md).
 
+Security concerns and ideas go to [the security
+channel](https://github.com/Scottpedia0/_ao/labels/security) — they're wanted
+there.
+
 ## The documents, in three groups
 
 **The Pattern**
