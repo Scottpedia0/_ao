@@ -87,7 +87,10 @@ machine guide. Agents audit the two against each other — for meaning, not
 words — and where they stop saying the same thing, that's where the
 disconnect lives. Plenty of discrepancy still exists, and that's the
 point: the gap is where improved governance comes from. Fixing the
-documents fixes the system. Three rules from
+documents fixes the system.
+
+Drift detection through parallax.
+ Three rules from
 [the constitution](guide-for-ai.md), verbatim: "Mutable state is not
 evidence." · "No fake green, ever." · "Reproduce the properties, not our
 plumbing."

@@ -136,3 +136,9 @@ hash — this file is how you find out what moved.
 - **Post-DONE minors.** Quickstart v11; the starter twin-sync discipline is
   now stated on-surface (README); connect states the lane order plainly: MCP
   live but token-gated, email first.
+- **The quarry window (r13-c6, spec dae91e60).** Doctrine v7 mounts the
+  Scott-ruled obsolescence sentence; four landing mounts, five human-guide
+  mounts (incl. the fuel/power-washer transcript and the scheduled-weather
+  pair), six starter mounts (incl. first-instruction.md and the style
+  contract). Additions only — no surviving line edited; three adaptations
+  disclosed in-spec. Starter mirrored per the twin discipline.

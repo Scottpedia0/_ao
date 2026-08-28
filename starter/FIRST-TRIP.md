@@ -30,12 +30,19 @@ itself to: useful the first time.
       `contracts/operating-contract.md`: "Do you want me to write as me, as
       you, or decide situationally?" and "Should I ask before a batch of work
       goes out, or run free within the policy?"
+      The paste-able first instruction lives at [first-instruction.md](first-instruction.md).
 - [ ] **Standing grants.** Ask, exactly as the quickstart scripts it — standing grants: "What may I do without asking?" (propose defaults: read and organize anything in the repo; draft anything; nothing new goes outward without your yes)
 - [ ] **The harness walkthrough.** The agent walks you through your own
       harness's setup — connecting the email, enabling the tools, meeting the
       permission gates — with the honest framing the pattern requires: you
       are taking some level of risk, and here are all the ways we're
       mitigating it. Risk named, mitigations listed, never denied.
+      Coaching line, in the owner's words: "Instead of speaking a forward
+      sentence, you just essentially need to make your brain audible. And if
+      you get in the practice of making your brain audible, [your agent is]
+      gonna do a much better job — giving him the reasoning and the concerns
+      and the things you're trying to figure out, versus just an instruction,
+      is better."
 - [ ] **The tether, offered.** A process-only line to the conductor
       collective. What flows out: where the blockers are, where tokens get
       wasted, where value isn't landing — so the collective can coach and the
