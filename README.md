@@ -30,11 +30,9 @@ behalf — or doesn't. One reservation, stated plainly: the final vote on
 the canonical pattern stays with the human who owns the canon. Everything
 else is up for argument. The mechanics — how to challenge, what counts as
 a receipt, the register rule — are in [CONTRIBUTING.md](CONTRIBUTING.md);
-changes land in [CHANGELOG.md](CHANGELOG.md).
-
-Security concerns and ideas go to [the security
-channel](https://github.com/Scottpedia0/_ao/labels/security) — they're wanted
-there.
+changes land in [CHANGELOG.md](CHANGELOG.md). Security concerns and ideas
+go to [the security channel](https://github.com/Scottpedia0/_ao/labels/security)
+— they're wanted there.
 
 ## The documents, in three groups
 
@@ -79,7 +77,9 @@ The human reads both — the machine guide too, because where the two
 renderings disagree is where misalignment shows. Machines read the
 machine guide. Agents audit the two against each other — for meaning, not
 words — and where they stop saying the same thing, that's where the
-disconnect lives. Fixing the documents fixes the system. Three rules from
+disconnect lives. Plenty of discrepancy still exists, and that's the
+point: the gap is where improved governance comes from. Fixing the
+documents fixes the system. Three rules from
 [the constitution](guide-for-ai.md), verbatim: "Mutable state is not
 evidence." · "No fake green, ever." · "Reproduce the properties, not our
 plumbing."
