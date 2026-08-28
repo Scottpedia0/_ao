@@ -68,3 +68,8 @@ AO's own changes belong in your own ledger; this file tracks the skeleton.
   naming lifecycle (a name is a handle, not a promotion). Quickstart v18:
   the done-block's email trigger now matches the doctrine's widened
   construction verbatim.
+- **Quickstart v19 (join-or-found).** Step 2 now opens with the single ask
+  — "Do you already run an AO?" A yes joins the existing instance down an
+  executable micro-path (repo location, paste rung for unreadable private
+  repos, contracts read, rejoin at 3.4 against the existing repo; step 4
+  shrinks to seat items); only a no founds, and only founding opens step 3.

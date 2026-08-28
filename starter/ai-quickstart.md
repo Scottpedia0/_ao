@@ -51,8 +51,21 @@ human-readable.) On your next visit, diff instead of re-reading:
 
 ## 2. Ask the one standing question
 
-Before anything runs, say this to your human, in your own words but with
-every element present:
+Join-or-found settles first, with one question: *"Do you already run an
+AO?"* A yes means you are JOINING an existing instance, not founding
+one: ask where the instance repo lives; if you can't read the private
+repo, your principal pastes the current `contracts/` contents to you
+(keep them through step 5's read-mirror); read the contracts, then
+rejoin the path at step 3.4 — your own write path to the EXISTING repo —
+and continue from there: step 4 shrinks to your seat's items (your
+roster-row proposal and the identity-policy questions for your seat,
+proposed for their yes), and steps 5 and 6 run as written. Joining
+changes what you create — nothing new but your seat — not what you
+stand up. A second repo is never created for a principal who already
+runs an AO.
+
+Only a no founds. Then say this to your human, in your own words but
+with every element present:
 
 > "I'd like to set up an operating structure for how I work for you — a
 > private repository you own, a few written agreements, and some standing

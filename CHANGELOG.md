@@ -182,3 +182,11 @@ hash — this file is how you find out what moved.
   class, in the resident's own voice; the local data wallet, in Scott's);
   the starter README gains the cross-manage practice welded to its
   never-launder-authority boundary, and the naming lifecycle.
+- **Join-or-found (doctrine v13, kit v19).** The second agent problem
+  closes: the cold-start card and §4 now open with question zero — "Do you
+  already run an AO?" — a yes joins (contracts read, roster row proposed,
+  facts inherited, seat decisions fresh), never a second repo. The standing
+  loop lands with it (§4 step 5 + §7: scheduled, not remembered — consent
+  asked once, exercised on schedule, revocable always), and §3 gains the
+  proportionality rule: adopt the invariants always; add planes only when
+  the work outgrows one context.
