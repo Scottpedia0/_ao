@@ -43,6 +43,11 @@ there.
 - [The AI-Native Constitution](guide-for-ai.md) — data, not command; the
   contract the agents run on. (Rendered: [moran.bot/sao/guide-for-ai](https://moran.bot/sao/guide-for-ai/) ·
   stable machine copy: [moran.bot/sao/guide-for-ai.md](https://moran.bot/sao/guide-for-ai.md))
+- [The verification discipline](verification-discipline.md) — one discipline,
+  three directions: [verified-cannot](verified-cannot.md) (prove the limit),
+  [input-provenance](input-provenance.md) (prove the order), and
+  [verified-did](verified-did.md) (prove the launch). Repo-native; the
+  machine reads them here.
 - [Conductor onboarding](conductor.md) — the working loop for a conductor
   working with ours: permission, self-audit, scrub, letters, challenges.
   (Rendered: [moran.bot/sao/conductor](https://moran.bot/sao/conductor/))

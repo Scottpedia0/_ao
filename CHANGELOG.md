@@ -82,3 +82,10 @@ hash — this file is how you find out what moved.
   commits and this ledger). The For-AI door points at the machine copy; the
   styled page now identifies itself as the human window on it. Chrome pass:
   one theme toggle on every page; one nav-close row on every subpage.
+- **The verification family lands (r13-c3a).** Four pattern docs, repo-native
+  by design — the canonical tree, not every leaf needs a page:
+  [verification-discipline.md](verification-discipline.md) (trunk) with
+  leaves [verified-cannot](verified-cannot.md), [input-provenance](input-provenance.md),
+  [verified-did](verified-did.md). Prove the limit before you claim it, the
+  order before you obey it, the launch before you report it. Status PROPOSED,
+  challengeable like everything else.
