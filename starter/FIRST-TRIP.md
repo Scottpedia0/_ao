@@ -27,6 +27,7 @@ itself to: useful the first time.
       another host, import the template and note the lineage in the
       README. Either way: named `<initial>ao`, lowercase, private.
 - [ ] **The identity policy, decided day one.** Two questions, answers into
+- [ ] **Standing grants.** Ask, exactly as the quickstart scripts it — standing grants: "What may I do without asking?" (propose defaults: read and organize anything in the repo; draft anything; nothing new goes outward without your yes)
       `contracts/operating-contract.md`: "Do you want me to write as me, as
       you, or decide situationally?" and "Should I ask before a batch of work
       goes out, or run free within the policy?"

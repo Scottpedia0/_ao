@@ -125,3 +125,9 @@ hash — this file is how you find out what moved.
   declared split (the starter's own MIT lives as a LICENSE file in
   _ao-starter, now true on disk). Kit v8 and the FIRST-TRIP notice ride the
   starter sync.
+- **Fix cycle 3 (run-003's one door).** Cold outsiders hit "issue creation
+  restricted" on the challenge door (account-level anti-abuse, not repo
+  config — verified). The fallback ships everywhere the door is offered:
+  if the issue door is closed, email larry@moran.bot — same channel,
+  human-relayed. Doctrine v6 also clarifies: merge authority over the
+  canon's text is not authority over you.

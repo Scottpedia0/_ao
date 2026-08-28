@@ -180,4 +180,5 @@ declared and running;
 and you can answer, from records, every question in FIRST-TRIP. If any
 step blocked you, that's a finding the pattern wants:
 [open an issue](https://github.com/Scottpedia0/_ao/issues) — an issue is
-a challenge, and challenges are how this improves.
+a challenge, and challenges are how this improves. If the issue door is
+closed, email larry@moran.bot — same channel, human-relayed.
