@@ -58,3 +58,9 @@ hash — this file is how you find out what moved.
   at [Scottpedia0/_ao-starter](https://github.com/Scottpedia0/_ao-starter),
   promoted from `starter/` (which stays here, kept in sync, as the reference
   copy); children template from there and carry its lineage stamp.
+- **Stale template references repaired (r13-c2).** The machine guide's
+  first-trip section and the starter skeleton now name
+  [Scottpedia0/_ao-starter](https://github.com/Scottpedia0/_ao-starter) — the
+  blank twin — as the template; the old wording pointed here, where the
+  template button no longer lives. Both copies of the skeleton (starter/ here
+  and the _ao-starter root) synced in the same window.

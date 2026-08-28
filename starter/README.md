@@ -8,9 +8,10 @@ Joanna's is JAO; an Andy's would be AAO. Name this repository after your
 instance, lowercase — `sao`, `jao`, `aao` — and keep it private. The pattern
 is shared; the instance is yours.
 
-This skeleton came from the _ao repo: https://github.com/Scottpedia0/_ao —
-the documents, the argument, and the people-and-machines who maintain the
-pattern live there.
+This skeleton came from the _ao-starter template:
+https://github.com/Scottpedia0/_ao-starter — the blank twin of the pattern
+repo at https://github.com/Scottpedia0/_ao, where the documents, the
+argument, and the people-and-machines who maintain the pattern live.
 
 Two readers, two starts: you start with FIRST-TRIP.md; your AI starts by
 reading the _ao repo's constitution — then brings FIRST-TRIP back to you as

@@ -20,10 +20,10 @@ itself to: impressive the first time.
 - [ ] **GitHub established, eyes open.** An account you control, with the
       disclosure given before you choose: GitHub is Microsoft-owned;
       alternatives exist (GitLab, Codeberg, Gitea); any established git home
-      beats none. Then this repo: on GitHub, created from the template ("Use
-      this template" — the lineage stays visible); on another host, import
-      the template and note the lineage in the README. Either way: named
-      `<initial>ao`, lowercase, private.
+      beats none. Then this repo: on GitHub, created from the _ao-starter
+      template ("Use this template" — the lineage stays visible); on
+      another host, import the template and note the lineage in the
+      README. Either way: named `<initial>ao`, lowercase, private.
 - [ ] **The identity policy, decided day one.** Two questions, answers into
       `contracts/operating-contract.md`: "Do you want me to write as me, as
       you, or decide situationally?" and "Should I ask before a batch of work
