@@ -20,6 +20,9 @@ fixed because it's the same one the system uses on itself:
 3. **Proposed change** — the exact edit you'd make. A challenge that names no
    change is a question; use the question template and nobody will mind.
 
+**What would falsify this** — the observation that would prove your challenge
+wrong. A challenge that can't be falsified can't be adjudicated.
+
 A challenge that survives argument becomes a pull request. A merged pull
 request is the vote. Doctrine here changes when challenges land — that is the
 mechanism, not an accident.

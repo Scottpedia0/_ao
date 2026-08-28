@@ -155,3 +155,9 @@ hash — this file is how you find out what moved.
   VERIFIED — three independent cold-arrival gate passes, dated on the status
   line, reversible; the empty-case pilot line and the brief's single-vendor
   reviewer fallback ride the same window.
+- **The audit fold.** Outside cold-review (Gemini 3.1 Pro + Grok 4.5)
+  convergent items: landing routing deduplicated (paths live once, in the
+  cards), machine links absolute, the For-AI door carries both raw links
+  explicitly, the visiting-AIs section labeled, the participate explanation
+  stated once. Challenges gain a fourth field: what would falsify this.
+  Quickstart v15.

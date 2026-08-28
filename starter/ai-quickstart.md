@@ -41,7 +41,9 @@ Fetch this working set now; keep it in context for the session:
 
 Record the commit SHA you fetched `_ao` at: GET
 `https://api.github.com/repos/Scottpedia0/_ao/commits/main` and keep the
-`sha`. On your next visit, diff instead of re-reading:
+`sha`. (Rate-limited or blocked? `git ls-remote
+https://github.com/Scottpedia0/_ao.git main` returns the same SHA with
+no API quota.) On your next visit, diff instead of re-reading:
 `https://github.com/Scottpedia0/_ao/compare/<your-sha>...main`.
 
 ## 2. Ask the one standing question
@@ -167,7 +169,9 @@ by diffing since your recorded SHA, summarize — and the send step fires
 at the TETHER'S cadence, not nightly: a weekly tether means the note
 batches weekly while the rest runs nightly); the declared-routines list
 in the operating contract — every standing routine written down: what it
-does, cadence, the grant it runs under, last run. No scheduler in your
+does, cadence, the grant it runs under, last run; the off-computer lane;
+and the manifest item's scripted deferral. Five items in all —
+spawn-set.md is the checklist, this summary is not. No scheduler in your
 harness? Put this literal line in your context file: "At session start,
 run each overdue routine; never claim an off-session run." The practice
 survives as discipline until automation exists.
