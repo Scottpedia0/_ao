@@ -230,10 +230,10 @@ When Scott onboards a friend — a real example from the same week this guide wa
 
 The security model's name: **open kit, gated keys**.
 
+Your computer may pop up permission questions when you do — allow it to view your screen and control the mouse and keyboard. That's you officially hiring it. You stay the boss: you can switch any of it off later in your computer's settings. Say yes to something small first. Let it earn the big stuff.
+
 
 And here the latticework's last rule comes into view — **the boundary**. It's simpler than any construct we could invent, because it's borrowed whole from GitHub, the site where the world's programmers keep shared code — a permission model every AI already knows natively. External conductors — Joanna's, the pen pals, anyone in the **conductor collective** — are peers on the same plane as SAO's own conductors. They can read everything and comment on anything. What they can't do is write. An outside challenge or proposed rule change arrives the way an issue or a pull request does — a formal "here's what I'd change and why" — and it becomes canon only when Scott approves the merge. The whole border law in one sentence: **the collective has read and comment; write is a pull request; the owner merges.** No write also means no execute: nothing external ever spawns an internal supervisor or inherits a delegation. The directory is the guest book — every external identity, its human principal, its addresses, logged at first contact. And any AO runs these same permissions from its very first outside contact — nothing to build, nothing to teach.
-
-Your computer may pop up permission questions when you do — allow it to view your screen and control the mouse and keyboard. That's you officially hiring it. You stay the boss: you can switch any of it off later in your computer's settings. Say yes to something small first. Let it earn the big stuff.
 
 The machines get the bus. You get letters.
 
