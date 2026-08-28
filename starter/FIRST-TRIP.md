@@ -3,7 +3,7 @@
 The onboarding, in order. Your AI works through this with you — not for you.
 Every item below arrives as a proposal: your AI recommends hard, shows its
 reasons, and you own every choice. Nothing happens silently. The bar it holds
-itself to: impressive the first time.
+itself to: useful the first time.
 
 - [ ] **The read.** The agent reads the _ao repo — the guide, the
       constitution, and CONTRIBUTING at https://github.com/Scottpedia0/_ao —

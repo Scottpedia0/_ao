@@ -7,6 +7,17 @@ Delete the comments as you fill. -->
 **Principal:** [human name] — the authority root; every chart has them at the
 top. **AO:** [name — initial + AO].
 
+## Purpose and scope
+
+<!-- The five first-trip answers, in the principal's own words. -->
+
+- What this AO is for: [their words]
+- What work matters most: [their words]
+- What "done" looks like here: [their words]
+- Who else is in the system: [people, agents, services — or "just us"]
+- What is off-limits: see [boundaries.md](boundaries.md) — the
+  principal's list, which wins.
+
 ## Who decides what
 
 - The principal decides: [everything by default — list what's delegated OUT]

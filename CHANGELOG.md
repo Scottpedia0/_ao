@@ -114,3 +114,9 @@ hash — this file is how you find out what moved.
   [Scottpedia0/_ao-starter](https://github.com/Scottpedia0/_ao-starter) and
   mirrored here in `starter/` per the two-copy sync rule. The doctrine's
   first-trip section now points at the quickstart as its executable form.
+- **Fix cycle from formal-run-001 (doctrine v4 + kit v7).** The doctrine
+  gains two of its quoted rules in their own text — "No fake green, ever."
+  (§2.4) and "Reproduce the properties, not our plumbing." (§8, with one
+  explanatory sentence) — restoring the landing's three-rules-verbatim claim
+  to exact truth; the §7 challenge pointer now names CONTRIBUTING.md. The
+  starter sync carries kit v7 and the "useful the first time" bar.

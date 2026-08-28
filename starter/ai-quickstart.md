@@ -63,6 +63,9 @@ to this file in your context and stop.
    GitLab, Codeberg, and Gitea exist; any established git home beats
    none. You don't need to understand how to use it — I do. You never
    have to again."*
+1b. No GitHub account yet? Hand your human https://github.com/signup and
+   guide them through it by voice — account creation is theirs to click,
+   never yours to do; it takes two minutes and happens once.
 2. On GitHub: create from the template
    [`Scottpedia0/_ao-starter`](https://github.com/Scottpedia0/_ao-starter)
    ("Use this template") — named their initial + `ao` (`jao`, `aao`),
@@ -89,7 +92,11 @@ checklist implies but doesn't script — standing grants: "What may I do
 without asking?" (propose defaults: read and organize anything in the
 repo; draft anything; nothing new goes outward without your yes) — and
 propose your own first roster row, job and owns in one line each, for
-their yes.
+their yes. Close the conversation with the five purpose questions, asked
+plainly and recorded in the operating contract's Purpose section in
+their own words: what is this AO for; what work matters most; what does
+"done" look like here; who else is in the system; what is off-limits
+(that one lands in boundaries.md).
 
 As answers land, fill the templates and commit them to `contracts/` —
 each filled template **replaces** the repo's thinner stub of the same
@@ -115,7 +122,8 @@ from step 1; the identity-policy answers; your name; the tether state,
 cadence, and address (larry@moran.bot if tethered); the nightly-practice
 config; the boundary one-liner ("the collective has read and comment;
 write is a pull request; the owner merges"); the blocker-log location
-(default: `[repo]/blockers.md`); the spawn-early rule.
+(default: `[repo]/blockers.md` — create the empty file now so the
+default exists); the spawn-early rule.
 
 ## 6. Stand up the standing work
 

@@ -17,7 +17,9 @@ Every claim handed over below carries one.
 - **prohibited:** [acts that stay confirm-gated or out of reach]
 - **evidence_bar:** [what receipt counts as proof of done; who reviews —
   cross-vendor if the package becomes canon or ships]
-- **reply_to:** [exact address of the requesting seat]
+- **reply_to:** [exact address of the requesting seat — if no addressing
+  exists yet in a fresh instance: "the commissioning conductor session,
+  named and dated"]
 - **stop_conditions:** [when to halt and surface instead of proceeding]
 
 **Commissioned by:** [conductor name] · **Date:** [ISO date]
