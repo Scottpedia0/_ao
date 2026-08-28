@@ -44,3 +44,7 @@ AO's own changes belong in your own ledger; this file tracks the skeleton.
   independent cold-arrival gate passes (dated, reversible); the empty-case
   pilot line lands in step 7; the supervisor brief gains the single-vendor
   reviewer fallback.
+- **Quickstart v15 (audit fold).** The freshness check gains a no-quota
+  fallback (`git ls-remote` returns HEAD when the API rate-limits); the
+  step-6 summary now names all five spawn-set items and defers to
+  spawn-set.md as the checklist.
