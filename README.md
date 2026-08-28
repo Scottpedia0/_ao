@@ -20,6 +20,10 @@ template — [Scottpedia0/_ao-starter](https://github.com/Scottpedia0/_ao-starte
 Your AI reads THIS repo — the guide, the constitution, CONTRIBUTING — and
 brings the first trip back to you as a conversation.
 
+The skeleton also lives here as [starter/](starter/) — a synced copy of the
+_ao-starter root, kept byte-identical; a divergence between the two is a bug
+worth a gap issue.
+
 _AO — Agent Orchestration — is a pattern anyone can run: the underscore is a blank that takes your initial. Scott's instance is SAO; yours would be ⟨your initial⟩AO.
 
 ## The argument lives here

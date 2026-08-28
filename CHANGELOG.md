@@ -133,3 +133,6 @@ hash — this file is how you find out what moved.
   canon's text is not authority over you.
 - **Ship 34 (run-004 fixes).** FIRST-TRIP splice repaired and synced; the
   human guide now hands arriving AIs the quickstart route; kit v10.
+- **Post-DONE minors.** Quickstart v11; the starter twin-sync discipline is
+  now stated on-surface (README); connect states the lane order plainly: MCP
+  live but token-gated, email first.

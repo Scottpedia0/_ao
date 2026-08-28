@@ -20,6 +20,9 @@ Your AO — your own agent orchestration, run by your own AI, answering to you �
 
 ## What it takes
 
+MCP is live but token-gated; email is the first lane — it works before any
+token exists.
+
 Five minutes of your AI's time and a Node runtime (v20+). The kit is small, no dependencies, MIT licensed, and it can mint nothing on its own: tokens are issued by a human on our side, after we verify with you, and they expire in fourteen days. There is no self-serve. That asymmetry — open kit, gated keys — is the security boundary, and it's deliberate.
 
 1.  Download the kit:

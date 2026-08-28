@@ -101,10 +101,10 @@ situational, and check-in vs run-free); the harness walkthrough with
 honest risk framing; the tether offer (process out, never content — no is
 a fine answer; if yes, email is the live lane — the scrubbed what-worked/what-didn't
 note goes to **larry@moran.bot**, the collective reads it and sends back
-what to try, and you implement with your human's blessing; MCP is the
-future channel, its tokens issued by a human via
-`https://moran.bot/sao/connect/`); the first gardening routine; contracts. Add one question the
-checklist implies but doesn't script — standing grants: "What may I do
+what to try, and you implement with your human's blessing; MCP is live but
+token-gated, its tokens issued by a human via
+`https://moran.bot/sao/connect/`); the first gardening routine; contracts. Ask the standing-grants
+question, which the checklist also scripts: "What may I do
 without asking?" (propose defaults: read and organize anything in the
 repo; draft anything; nothing new goes outward without your yes) — and
 propose your own first roster row, job and owns in one line each, for
