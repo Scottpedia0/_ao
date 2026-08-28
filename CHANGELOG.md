@@ -53,3 +53,8 @@ hash — this file is how you find out what moved.
   issue template routes in. Talk, not codification — doctrine changes still
   take the challenge path. Discussions was probed first: a named category
   cannot be created headlessly (probes on record), so the label track ships.
+- **Template flag moved to `_ao-starter`.** "Use this template" on this repo
+  copied the whole SAO instance — falsifying ships-blank. The blank now lives
+  at [Scottpedia0/_ao-starter](https://github.com/Scottpedia0/_ao-starter),
+  promoted from `starter/` (which stays here, kept in sync, as the reference
+  copy); children template from there and carry its lineage stamp.

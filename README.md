@@ -25,9 +25,11 @@ the point. And how the pieces relate: the model is the fuel, the context is
 the brain, structure is the nozzle — a hose becomes a power washer by
 focusing, never restricting.
 
-To start yours: use this repository as a template (the "Use this template"
-button), name the new repo your initial + `ao` — `jao`, `aao` — keep it
-private, and open [starter/FIRST-TRIP.md](starter/FIRST-TRIP.md).
+To start yours: use the blank template at
+[github.com/Scottpedia0/\_ao-starter](https://github.com/Scottpedia0/_ao-starter)
+(the "Use this template" button there), name the new repo your initial +
+`ao` — `jao`, `aao` — keep it private, and open FIRST-TRIP.md in your new
+repo. The skeleton also lives here as [starter/](starter/), kept in sync.
 
 ## The two documents
 
