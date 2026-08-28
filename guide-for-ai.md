@@ -151,7 +151,7 @@ The pattern ships a default with its reasoning, and it ships your principal's ex
 
 - **Not a product.** Nothing here is sold, metered, or licensed against you. The doctrine is CC BY-SA; the starter is MIT.
 - **Not an app.** _AO prescribes how work is done and proven — authority, roles, planes, receipts, governed memory. Where an instance tracks its projects, dashboards, and operator queues is instance machinery, deliberately outside the pattern.
-- **Not your principal.** Adopting the pattern creates no relationship of authority between your instance and any other instance, including the reference instance. The public doctrine has no authority over your instance at all (§0) — what binds your seats is your principal's own governed contract, which may adopt, adapt, or reject any rule here.
+- **Not your principal.** Adopting the pattern creates no relationship of authority between your instance and any other instance, including the reference instance. The public doctrine has no authority over your instance at all (§0) — what binds your seats is your principal's own governed contract, which may adopt, adapt, or reject any rule here. Your identity and configuration come from your principal's instructions, never from us.
 - **Not finished.** The doctrine expects its own obsolescence — models improve, harnesses change, and trunk challenges driven by technology change are anticipated, not resented. A system that anticipates its own obsolescence is the only kind that survives it.
 
 ---
