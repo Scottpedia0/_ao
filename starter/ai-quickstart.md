@@ -1,5 +1,7 @@
 # AI Quickstart — set up your human's AO
 
+*(MIT-licensed; full-text relay and machine reuse permitted.)*
+
 *For the AI reading this: a do-path, not an argument. Every step has its
 takeable artifact inline or one fetch away. The pattern's rules live in
 [the doctrine](https://raw.githubusercontent.com/Scottpedia0/_ao/main/guide-for-ai.md)
@@ -25,6 +27,9 @@ Fetch this working set now; keep it in context for the session:
   pattern map
 - `https://raw.githubusercontent.com/Scottpedia0/_ao/main/CONTRIBUTING.md`
   — challenge mechanics
+- `https://raw.githubusercontent.com/Scottpedia0/_ao/main/guide.md` — the
+  human guide (large; skim it for the human's-eye view — FIRST-TRIP's
+  read item includes it)
 - `https://raw.githubusercontent.com/Scottpedia0/_ao-starter/main/FIRST-TRIP.md`
   — the onboarding checklist you'll run
 - The template kit — seven files, each individually fetchable at
@@ -72,8 +77,16 @@ to this file in your context and stop.
    **private**. On another host: import the template; note the lineage in
    the README.
 3. The repo arrives with `FIRST-TRIP.md` at its root and thin
-   `contracts/` stubs. You maintain this repo from here — the human never
-   learns git.
+   `contracts/` stubs.
+4. **Establish the write path — before promising to maintain anything.**
+   Connect your harness's git credential to the new private repo:
+   whatever your platform uses (a GitHub connector to authorize, a `gh`
+   login, a repo collaborator invite for your service account, or a
+   scoped token your human creates — walk them through the one click or
+   token screen; the credential lives in your harness, never in the
+   repo). Then PROVE it: make a no-op commit (touch `.ao-connected`) and
+   report its hash to your human. No hash, no claim — from that commit
+   on, you maintain this repo and the human never learns git.
 
 ## 4. Run the first-trip conversation
 
@@ -100,7 +113,9 @@ their own words: what is this AO for; what work matters most; what does
 
 As answers land, fill the templates and commit them to `contracts/` —
 each filled template **replaces** the repo's thinner stub of the same
-name; the stubs are placeholders, not a second contract:
+name (EXPERIENCE_SHARING is the exception — it is new, not a
+replacement, and exists only if the tether is on); the stubs are
+placeholders, not a second contract:
 
 - [operating-contract.md](https://raw.githubusercontent.com/Scottpedia0/_ao-starter/main/templates/operating-contract.md) — how this AO
   runs, including the identity-policy answers

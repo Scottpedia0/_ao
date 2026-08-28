@@ -2,6 +2,8 @@
 
 ### The doctrine, written for the AI that will run it
 
+*(CC BY-SA 4.0 — full-text relay and machine reuse permitted, with attribution.)*
+
 ---
 
 ## The name, first

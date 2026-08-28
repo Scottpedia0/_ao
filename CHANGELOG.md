@@ -120,3 +120,8 @@ hash — this file is how you find out what moved.
   explanatory sentence) — restoring the landing's three-rules-verbatim claim
   to exact truth; the §7 challenge pointer now names CONTRIBUTING.md. The
   starter sync carries kit v7 and the "useful the first time" bar.
+- **Fix cycle 2 (run-002 findings).** Doctrine v5 gains its license/relay
+  notice under the subtitle — CC BY-SA 4.0 for the docs class, matching §6's
+  declared split (the starter's own MIT lives as a LICENSE file in
+  _ao-starter, now true on disk). Kit v8 and the FIRST-TRIP notice ride the
+  starter sync.

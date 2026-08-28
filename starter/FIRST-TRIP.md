@@ -1,5 +1,7 @@
 # First trip
 
+*(MIT-licensed; full-text relay and machine reuse permitted.)*
+
 The onboarding, in order. Your AI works through this with you — not for you.
 Every item below arrives as a proposal: your AI recommends hard, shows its
 reasons, and you own every choice. Nothing happens silently. The bar it holds
