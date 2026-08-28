@@ -94,3 +94,10 @@ hash — this file is how you find out what moved.
   full-intelligence guard, tier rows by work type. Two standing rules are
   absorbed as rows rather than restated: the QA-model-floor (the
   verification row) and register-frontier-only (the judgment row).
+- **The doctrine, rewritten (r14).** [guide-for-ai.md](guide-for-ai.md) is a
+  fresh _AO-first rewrite — the pattern leads, the name convention comes
+  first, the instance is the example. Graded cold by three outside frontier
+  models (A / A+ / A) after one fold cycle; a proposal to soften the
+  money-movement hard line was declined as safety-diluting. Replaces the
+  prior constitution text entirely; the styled page catches up in the next
+  cluster and points at this document meanwhile.
