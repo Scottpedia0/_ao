@@ -70,3 +70,15 @@ hash — this file is how you find out what moved.
   term, conductor, everywhere including both diagrams; Shemp is the sentry.
   The chart now teaches the actual shape: standing vendor conductors →
   per-mission supervisors → per-task workers.
+- **The rebalance.** The repo and landing now lead with the pattern; SAO is
+  framed as the reference implementation. README navigation groups: The
+  Pattern / The Reference Implementation / The Machinery. `evidence/` folded:
+  the graded receipts live in [lineage.md](lineage.md) (pointer stub at the
+  old path; the PDF stays put). The constitution ships a **stable machine
+  copy** at [moran.bot/sao/guide-for-ai.md](https://moran.bot/sao/guide-for-ai.md)
+  — served plain, updated atomically with every deploy, byte-identical to
+  [guide-for-ai.md](guide-for-ai.md) here (the mirror header moved out of the
+  file so machine copy and repo copy are the same bytes; provenance lives in
+  commits and this ledger). The For-AI door points at the machine copy; the
+  styled page now identifies itself as the human window on it. Chrome pass:
+  one theme toggle on every page; one nav-close row on every subpage.

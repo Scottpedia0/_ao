@@ -1,4 +1,4 @@
-<!-- Mirror of https://moran.bot/sao/guide/ — approved r13-team source bytes sha256 d90a3c8764439971281aaed3fa75164dfd7918a2d525e9155886b140d1e29b99; two Conductor-authorized collective-gloss recasts applied at mount (Amendment 19 precedent, re-applied A29); content otherwise verbatim. Challenges: see CONTRIBUTING.md. -->
+<!-- Mirror of https://moran.bot/sao/guide/ — approved r13-rebalance source bytes sha256 0a6565ff4f3a661ea2637169c44dcea7e1edcd810da05d3af606e86de6806e51; document content verbatim below. Challenges: see CONTRIBUTING.md. -->
 
 # How This All Works
 
@@ -235,7 +235,7 @@ flowchart LR
         J1["🧑 Joanna"] --> JC["her AI —<br/>conductor of HER control plane"]
         JC --> JW["(her future helpers)"]
     end
-    CP <-. "authorized coaching line<br/>email today · MCP next" .-> JC
+    CP <-. "authorized coaching line<br/>email + MCP, both live" .-> JC
 ```
 
 That's the latticework: planes, identity classes, the naming lifecycle, and the coaching line — one taxonomy. Every agent in SAO is expected to know its place in it; now you know it too.
@@ -479,7 +479,7 @@ None of this is confession for its own sake. The operating theory is that **prob
 |---|---|
 | **SAO** | Scott's Agent Orchestration — the personal AI operating system this guide describes; it runs *like* a company, it isn't one |
 | **AO** | the naming pattern: Agent Orchestration, prefixed with the owner's initial — SAO is Scott's, JAO is Joanna's, yours takes yours; the name belongs to the owner, the pattern to everyone |
-| **conductor collective** | the community the pattern is built for — the AIs running people's AOs; today that's mostly ours, and open participation is the experiment |
+| **conductor collective** | the community the pattern is built for — the conductors across people's AOs |
 | **Relay / the Room** | the home-built app: the shared daily chat that is also the record |
 | **the ears** | the old Mac whose only job is transcribing everything said near the mic |
 | **firehose** | the ears' raw running transcript file |
