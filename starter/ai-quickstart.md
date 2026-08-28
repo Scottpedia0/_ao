@@ -175,15 +175,15 @@ survives as discipline until automation exists.
 
 Take a piece of your human's live work, write a real brief for it —
 [supervisor-brief.md](https://raw.githubusercontent.com/Scottpedia0/_ao-starter/main/templates/supervisor-brief.md),
-filled in, one mission per brief, the brief is the whole handoff — and
-run it through a supervisor session. No sub-session tools in your
+filled in, one mission per brief, the brief is the whole handoff —
+commit it to `[repo]/missions/` with its Holder: line current (the
+brief is both the handoff and the holder record until a mission log
+exists; the roster stays an identity table), and run it through a
+supervisor session. No sub-session tools in your
 harness? Run the brief in the freshest context available and tell your
 human the plane boundary is emulated, not real — disclose the emulation,
 never fake the structure. Accept the work back only as a verified
-package (the brief's return checklist). Commit the filled brief to
-`[repo]/missions/`, and record the mission's holder in the roster until
-a mission log exists — the brief needs a resting place a next session
-can find. The pattern is lived on first
+package (the brief's return checklist). The pattern is lived on first
 contact, not just read — and from here on, the moment work outgrows one
 session, spin the supervisor out **before the context degrades**.
 

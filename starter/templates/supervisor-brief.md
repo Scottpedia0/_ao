@@ -22,7 +22,9 @@ Every claim handed over below carries one.
   named and dated"]
 - **stop_conditions:** [when to halt and surface instead of proceeding]
 
-**Commissioned by:** [conductor name] · **Date:** [ISO date]
+**Commissioned by:** [conductor name] · **Date:** [ISO date] ·
+**Holder:** [who is answerable for this mission right now — update on
+every handoff; this line is the holder record]
 
 ## Context handed over
 
@@ -44,12 +46,13 @@ The return is a **verified package**, schema-named like the brief:
 - decisions_needed: [for the principal, max 3, ranked by unblock value]
 ```
 
-1. Send the package to reply_to — including what was NOT done and
+1. Before handing this mission to anyone else (or back — the handback is
+   a transfer too): stop taking new work in its scope; write the package
+   first; update this brief's own **Holder:** line (the brief, committed
+   in `[repo]/missions/`, is the holder record until a mission log
+   exists); only then does the next agent read in.
+2. Send the package to reply_to — including what was NOT done and
    anything learned that outlives the mission.
-2. Before handing this mission to anyone else (or back): stop taking new
-   work in its scope; write the package first; record the new holder in
-   [where holders are tracked — the roster or mission log at
-   [repo]/contracts/]; only then does the next agent read in.
 3. Report every dispatch with the id the tool returned (task id, message
    id, commit hash). No id returned? Write "queued, not confirmed" —
    never "done."

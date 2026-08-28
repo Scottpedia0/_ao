@@ -146,3 +146,8 @@ hash — this file is how you find out what moved.
   finalize-after-step-6 ordering, all four working-tree shapes with defaults,
   the mission brief gets a resting place); doctrine v9 fixes the starter
   inventory row — first-instruction.md and LICENSE now listed.
+- **Run-007 fixes.** Kit v13 (the mission-brief instruction moves to the
+  dispatch point; supervisor-brief gains its Holder: line); the
+  first-instruction link moves to FIRST-TRIP's preamble; the starter twin
+  now carries CHANGELOG.md too — the byte-identical claim stays simple and
+  true, no scoping caveats.

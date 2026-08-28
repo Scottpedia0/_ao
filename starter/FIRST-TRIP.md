@@ -7,6 +7,8 @@ Every item below arrives as a proposal: your AI recommends hard, shows its
 reasons, and you own every choice. Nothing happens silently. The bar it holds
 itself to: useful the first time.
 
+The paste-able first instruction lives at [first-instruction.md](first-instruction.md).
+
 - [ ] **The read.** The agent reads the _ao repo — the guide, the
       constitution, and CONTRIBUTING at https://github.com/Scottpedia0/_ao —
       and keeps a durable pointer to the constitution in its first-loaded
@@ -30,7 +32,6 @@ itself to: useful the first time.
       `contracts/operating-contract.md`: "Do you want me to write as me, as
       you, or decide situationally?" and "Should I ask before a batch of work
       goes out, or run free within the policy?"
-      The paste-able first instruction lives at [first-instruction.md](first-instruction.md).
 - [ ] **Standing grants.** Ask, exactly as the quickstart scripts it — standing grants: "What may I do without asking?" (propose defaults: read and organize anything in the repo; draft anything; nothing new goes outward without your yes)
 - [ ] **The harness walkthrough.** The agent walks you through your own
       harness's setup — connecting the email, enabling the tools, meeting the
