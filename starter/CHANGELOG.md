@@ -62,3 +62,9 @@ AO's own changes belong in your own ledger; this file tracks the skeleton.
   fetch-only FIRST-TRIP parenthetical, the hash read-back naming its source.
   The nightly item carries its own no-spawn clause; FIRST-TRIP now discloses
   the chat-only human workload plainly — you click, it dictates.
+- **Practices from the reference instance.** The README gains two: the
+  cross-manage capability welded to its absolute boundary (never launder
+  authority through another agent — shipped only as one passage), and the
+  naming lifecycle (a name is a handle, not a promotion). Quickstart v18:
+  the done-block's email trigger now matches the doctrine's widened
+  construction verbatim.

@@ -175,3 +175,10 @@ hash — this file is how you find out what moved.
   CONTRIBUTING's email lane now also opens when a harness cannot post, not
   only when the issue door is closed. FIRST-TRIP states the chat-only
   human workload before the choice, per the risk-named-never-denied bar.
+- **The banked-work window.** F5b rides every carrier in one construction:
+  doctrine v11, kit v18, and the landing all say the email lane opens when
+  the issue door is closed or the harness cannot post. The human guide
+  gains two reference-instance passages (the sentries outside the program
+  class, in the resident's own voice; the local data wallet, in Scott's);
+  the starter README gains the cross-manage practice welded to its
+  never-launder-authority boundary, and the naming lifecycle.
