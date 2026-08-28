@@ -109,3 +109,8 @@ hash — this file is how you find out what moved.
   styled machine window re-renders the canonical guide-for-ai.md directly —
   window and doctrine can no longer diverge. Gate: cold-read fanout by three
   outside models, unanimous pass, pre-flip.
+- **The serve layer (r13-serve).** The starter gains `ai-quickstart.md` —
+  the executable do-path — and `templates/` (seven working files). Mounted in
+  [Scottpedia0/_ao-starter](https://github.com/Scottpedia0/_ao-starter) and
+  mirrored here in `starter/` per the two-copy sync rule. The doctrine's
+  first-trip section now points at the quickstart as its executable form.
