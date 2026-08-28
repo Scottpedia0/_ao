@@ -73,3 +73,10 @@ AO's own changes belong in your own ledger; this file tracks the skeleton.
   executable micro-path (repo location, paste rung for unreadable private
   repos, contracts read, rejoin at 3.4 against the existing repo; step 4
   shrinks to seat items); only a no founds, and only founding opens step 3.
+- **The tether, advocated (kit v21).** The tether item is rebuilt as the
+  advocacy brief: conviction on the why (education, not reassurance), one
+  yes covering three pieces — messaging path, scheduled self-audit, hygiene
+  pass — with the honest scrub line and the deferral-records-as-no guard;
+  the decision moment stays clean. The contracts item now starts from a
+  draft, never a blank page (permission to scan is load-bearing); spawn-set's
+  hygiene pass reconciles JOBS first, then rows.

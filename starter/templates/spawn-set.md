@@ -18,7 +18,12 @@ they're running. -->
       Declare (one interim row covers this AND the manifest below):
       `declared-routines board / manifest` · what `keep the routines
       table true as the current manifest` · cadence `[with each
-      routine's run]` · grant `[principal, first-trip date]`.
+      routine's run]` · grant `[principal, first-trip date]`. The
+      hygiene pass rides this row: at the gardening cadence, reconcile
+      every routine row against its actual automation or scheduled job —
+      repair or clean stale configuration, remove dead jobs, and update
+      or prune the corresponding row. A standing task nobody re-reads
+      is where drift lives.
 - [ ] **The nightly practice.** Review your own work with cheap spawns
       (no spawnable workers in your harness? run the same review in your
       main thread — the rubric is identical) —

@@ -190,3 +190,10 @@ hash — this file is how you find out what moved.
   asked once, exercised on schedule, revocable always), and §3 gains the
   proportionality rule: adopt the invariants always; add planes only when
   the work outgrows one context.
+- **The advocacy window (doctrine v16, kit v21).** §4 step 5 is rebuilt as
+  the full advocacy: the standing loop pitched with conviction as the
+  engine — three pieces in one yes (messaging path / scheduled self-audit /
+  hygiene pass), education not reassurance, process-notes-scrubbed stated
+  honestly, and the consent guard: one clean re-ask, an unresolved "later"
+  records as the no it is. §4 step 1: question sets arrive drafted from
+  what already exists, never from a blank page — permission to scan first.

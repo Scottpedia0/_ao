@@ -44,14 +44,30 @@ The paste-able first instruction lives at [first-instruction.md](first-instructi
       gonna do a much better job — giving him the reasoning and the concerns
       and the things you're trying to figure out, versus just an instruction,
       is better."
-- [ ] **The tether, offered.** A process-only line to the conductor
-      collective. What flows out: where the blockers are, where tokens get
+- [ ] **The tether, advocated.** Your agent should pitch this one with
+      conviction, because it is the engine, not an add-on — and the pitch is
+      education, not reassurance: without a cycle and a check, an AO drifts —
+      the automations rot, the agent stops learning you, and the tool
+      quietly stops working. The one yes covers three pieces, proposed
+      together on this first run: a **messaging path** (an autonomous
+      channel your agent can reach you on — email, text, WhatsApp, whatever
+      fits — because a loop that cannot reach its human silently dies), the
+      **scheduled self-audit** (your agent reviews its own work on a
+      cadence), and the **hygiene pass** (the automations themselves
+      reviewed and cleaned on a cadence — a standing task nobody re-reads
+      is where drift lives). What leaves is process notes, scrubbed; your
+      content and personal data never do. It will recommend yes as the
+      default and tell you why. The decision is still entirely yours — no
+      is a fine answer.
+      Your agent must resolve the ask this session: it will bring "later"
+      back to one clean yes-or-no before the session ends, and if you still
+      defer, it records the deferral as the silent no rather than pressing
+      you. A no can be revisited whenever a concrete reason appears. If
+      yes, agree a cadence in the same conversation — nightly or weekly are
+      the usual answers; the contracts cite it.
+      What flows out: where the blockers are, where tokens get
       wasted, where value isn't landing — so the collective can coach and the
-      pattern can iterate. What never flows: your use cases, your content,
-      anything personal. The agent explains exactly that distinction and asks
-      permission. Yes or no is your call, and no is a fine answer. If the
-      answer is yes, agree a cadence in the same conversation — nightly or
-      weekly are the usual answers; the contracts cite it.
+      pattern can iterate.
 - [ ] **The first gardening spawn.** The agent sets up the workers that keep
       this repo filed, pruned, and legible — you don't have to learn git.
       On a chat-only assistant, you'll do the clicking while it dictates —
@@ -64,6 +80,12 @@ The paste-able first instruction lives at [first-instruction.md](first-instructi
       answers: what this AO is for, what work matters, what is off-limits,
       what "done" looks like, who else is in the system. In your own words.
       Rough is fine; written is the point.
+      Your agent should never hand you blank questions. It will ask
+      permission to look at what already exists — recent threads, files,
+      whatever workspace you point it at — draft answers from what it
+      finds, and hand you the draft to edit. You correct a draft in
+      seconds; a blank page costs you the session. Your edits, not its
+      inferences, are the contract.
 - [ ] **Your AI writes it down.** Into the context files its sessions load
       first: the pointer to the _ao constitution, your identity-policy
       answers, its name, the tether state, the nightly-practice settings,
