@@ -54,6 +54,8 @@ The paste-able first instruction lives at [first-instruction.md](first-instructi
       weekly are the usual answers; the contracts cite it.
 - [ ] **The first gardening spawn.** The agent sets up the workers that keep
       this repo filed, pruned, and legible — you don't have to learn git.
+      On a chat-only assistant, you'll do the clicking while it dictates —
+      a dozen small web edits the first day.
 - [ ] **Conductor posture from session one.** The agent runs the first real
       work as a conductor — missions out to supervisor lanes where the work
       supports it — so the three-plane pattern is lived, not just read.

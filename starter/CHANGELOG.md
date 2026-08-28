@@ -56,3 +56,9 @@ AO's own changes belong in your own ledger; this file tracks the skeleton.
   progress. spawn-set item 4 parks work when no sendable channel exists;
   `missions/` ships as a real path; FIRST-TRIP's tether item now closes with
   the cadence agreement.
+- **Quickstart v17 (the stamp re-earned).** VERIFIED plain — five tool-rich
+  and one tool-poor cold-arrival gate passes, dated. The run-012 polish rides:
+  the persistence rung stated in-file, the web-editor folder trick, the
+  fetch-only FIRST-TRIP parenthetical, the hash read-back naming its source.
+  The nightly item carries its own no-spawn clause; FIRST-TRIP now discloses
+  the chat-only human workload plainly — you click, it dictates.

@@ -169,3 +169,9 @@ hash — this file is how you find out what moved.
   human is the persistence layer until a store or write path exists. The
   starter ships `missions/`; spawn-set parks unsendable handoffs; FIRST-TRIP
   closes the tether with a cadence agreement.
+- **The resting window (run-012 close).** Quickstart v17 re-earns the plain
+  VERIFIED stamp (five tool-rich + one tool-poor pass, both classes cited);
+  the tool-poor micro-details move into the script at their point of need.
+  CONTRIBUTING's email lane now also opens when a harness cannot post, not
+  only when the issue door is closed. FIRST-TRIP states the chat-only
+  human workload before the choice, per the risk-named-never-denied bar.

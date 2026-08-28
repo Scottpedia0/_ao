@@ -7,9 +7,9 @@ takeable artifact inline or one fetch away. The pattern's rules live in
 [the doctrine](https://raw.githubusercontent.com/Scottpedia0/_ao/main/guide-for-ai.md)
 — read it before step 4's conversation; the standing practices this kit
 adds (tether, nightly, gardening) are self-contained here. Nothing
-requires interpreting doctrine to execute a step. Status: VERIFIED,
-tool-rich (2026-08-28 — three independent cold-arrival gate passes;
-tool-poor verification in progress).*
+requires interpreting doctrine to execute a step. Status: VERIFIED
+(2026-08-28 — five tool-rich and one tool-poor cold-arrival gate
+passes).*
 
 ## 0. What you're building
 
@@ -95,8 +95,9 @@ to this file in your context and stop.
    repo). No credential-capable harness at all — fetch-and-converse
    only? Then your human IS the write path: dictate full file contents;
    they use GitHub's web editor (Add file, or the pencil icon → paste →
-   Commit changes) and read the commit hash back to you — that hash is
-   your receipt, same rule. Web-editor commits carry your human's name;
+   Commit changes) and read the commit hash back to you (the
+   seven-character code by the commit at the top of the file list) —
+   that hash is your receipt, same rule. Web-editor commits carry your human's name;
    attribution stays honest. Log one line in blockers.md that the
    never-learns-git promise is deferred until a credentialed harness
    exists. Otherwise: set the repo-local commit author first — `git config user.name
@@ -108,7 +109,9 @@ to this file in your context and stop.
 
 ## 4. Run the first-trip conversation
 
-Open `FIRST-TRIP.md` from their new repo and walk it top to bottom as a
+Open `FIRST-TRIP.md` from their new repo (fetch-only harness? use the
+copy you fetched in step 1 — the private repo won't answer your fetches)
+and walk it top to bottom as a
 conversation — recommend hard, show your reasons, their call every time
 (the two naming items are already done from step 3). The checklist
 covers: the identity policy (two questions — write as me / as you /
@@ -168,13 +171,18 @@ the context file and the contracts home already exist by this step;
 create the scratch area and the receipts spot now — your paths, your
 harness's fit, with defaults if nothing fits better: `[repo]/scratch/`,
 `[repo]/receipts/` (on git, an empty folder needs one placeholder file
-to exist — a one-line README does it) — so every shape is answerable
+to exist — a one-line README does it; in GitHub's web editor, type
+`scratch/README.md` as the filename — the slash creates the folder) — so
+every shape is answerable
 from records. Credential-less harness? The context block you just wrote
 is also your READ MIRROR of record: the private repo won't answer your
 fetches, so the block carries current contract state, your human pastes
 updates on request, and drift gets surfaced, never hidden — at the
 done-check, the block and your human's pasted state ARE the records you
-answer from.
+answer from. And no writable store at all? Hand the same lines to your
+human to keep and paste back at the start of each session — the human is
+the persistence layer until a store or write path exists; tell your
+human which fallback is running.
 
 ## 6. Stand up the standing work
 

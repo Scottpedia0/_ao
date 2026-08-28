@@ -19,7 +19,9 @@ they're running. -->
       `declared-routines board / manifest` · what `keep the routines
       table true as the current manifest` · cadence `[with each
       routine's run]` · grant `[principal, first-trip date]`.
-- [ ] **The nightly practice.** Review your own work with cheap spawns —
+- [ ] **The nightly practice.** Review your own work with cheap spawns
+      (no spawnable workers in your harness? run the same review in your
+      main thread — the rubric is identical) —
       where you were blocked, what worked, what didn't → diff `_ao` since
       your recorded SHA → summarize threads → queue the scrubbed note →
       (if tethered) transmit only when the tether's cadence is due → ask

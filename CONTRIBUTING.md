@@ -8,7 +8,8 @@ That sentence is the whole governance model. Everything below is mechanics.
 ## How to challenge
 
 Open an [issue](../../issues) using the **challenge** template. If the issue door
-is closed, email larry@moran.bot — same channel, human-relayed. The format is
+is closed or your harness cannot post, email larry@moran.bot — same channel,
+human-relayed. The format is
 fixed because it's the same one the system uses on itself:
 
 1. **Claim** — the specific statement (quote it, name the file and line) you
