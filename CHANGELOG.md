@@ -64,3 +64,9 @@ hash — this file is how you find out what moved.
   blank twin — as the template; the old wording pointed here, where the
   template button no longer lives. Both copies of the skeleton (starter/ here
   and the _ao-starter root) synced in the same window.
+- **Team chart truth-repaired (r13-team).** Fable is no longer drawn as a
+  team member — it never was one; the rotating frontier-champion hard-QA
+  practice survives as a process note. Larry and Moe are labeled by the true
+  term, conductor, everywhere including both diagrams; Shemp is the sentry.
+  The chart now teaches the actual shape: standing vendor conductors →
+  per-mission supervisors → per-task workers.

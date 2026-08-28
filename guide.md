@@ -1,4 +1,4 @@
-<!-- Mirror of https://moran.bot/sao/guide/ — approved r12b source bytes sha256 ed44ef06559d90749f4db98bfe8139a8255107a8ce892f978aaf62b5860a82bc; two Conductor-authorized collective-gloss recasts applied at mount (Amendment 19); content otherwise verbatim. Challenges: see CONTRIBUTING.md. -->
+<!-- Mirror of https://moran.bot/sao/guide/ — approved r13-team source bytes sha256 d90a3c8764439971281aaed3fa75164dfd7918a2d525e9155886b140d1e29b99; two Conductor-authorized collective-gloss recasts applied at mount (Amendment 19 precedent, re-applied A29); content otherwise verbatim. Challenges: see CONTRIBUTING.md. -->
 
 # How This All Works
 
@@ -13,10 +13,10 @@
 **SAO** — **Scott's Agent Orchestration** — is Scott's personal AI operating system. It runs *like* a small company whose staff are mostly AIs (this guide leans on that analogy throughout):
 
 - **The office is a group chat** — **the Room**, on his phone. One room per day; nothing can be edited or deleted. The chat *is* SAO's record.
-- **The staff are named AIs with jobs:** Larry and Moe, two chiefs of staff on rival AI brands; Shemp, the watchman; Curly, sales.
+- **The staff are named AIs with jobs:** Larry and Moe, two standing conductors on rival AI brands; Shemp, the sentry; Curly, sales.
 - **The buildings are four computers:** Scott's MacBook Pro, an old Mac that only listens and transcribes (**"the ears"**), a Mac Mini (dark), and a rented cloud server — **The Jawn**.
 - **Voice is the main input.** The ears transcribe everything near the mic on Scott's own hardware; text is kept permanently, searchable by agents — and excerpts they use get processed on AI companies' servers. Talking near the rig? You're on the record.
-- **Work flows like a company:** Scott speaks → a chief of staff routes it → a project manager staffs the job → workers execute → a *different company's* AI reviews it → the Room records it.
+- **Work flows like a company:** Scott speaks → a conductor routes it → a project manager staffs the job → workers execute → a *different company's* AI reviews it → the Room records it.
 - **Nobody's hostage.** Everything that makes SAO *itself* — memory, rules, skills, records — is plain files Scott owns; vendors' models plug in, mix, or swap out without the company losing itself.
 - **Agent View, a live screen,** tries to show every machine, agent, and job — and labels how much of itself to trust.
 
@@ -30,17 +30,17 @@ A workshop, not a showroom — watch for the **⚠ honest notes**.
 
 **Scott** — the human. The owner, the only person on staff, and the final word on everything that matters. Every AI here ultimately works for him, and every chart in the system has him at the top.
 
-**Larry [AI]** — chief of staff #1. Larry runs on Claude (made by Anthropic) and works closest to Scott, in a visible window on the MacBook Pro. Coordination, review, architecture, communication. When email leaves the system it's signed *Larry, Scott's AI assistant* — never faked as Scott.
+**Larry [AI]** — conductor. Larry runs on Claude (made by Anthropic) and works closest to Scott, in a visible window on the MacBook Pro. A **conductor** is the standing agent that runs a routing desk: it owns priorities, routes the work, and deploys rather than does. Coordination, review, architecture, communication. When email leaves the system it's signed *Larry, Scott's AI assistant* — never faked as Scott.
 
-**Moe [AI]** — chief of staff #2. Moe runs on Codex (made by OpenAI), also front-of-screen on the MacBook Pro. Deep follow-through, sales tooling, product work. Larry and Moe are **equal peers** — two chiefs of staff running on rival vendors' models, deliberately: two different companies' AIs looking at the same problems, checking each other. (They have, in the record, corrected each other's overreach — with Scott as referee.)
+**Moe [AI]** — conductor. Moe runs on Codex (made by OpenAI), also front-of-screen on the MacBook Pro. Deep follow-through, sales tooling, product work. Larry and Moe are **equal peers** — two conductors running on rival vendors' models, deliberately: two different companies' AIs looking at the same problems, checking each other. (They have, in the record, corrected each other's overreach — with Scott as referee.)
 
-**Shemp [AI]** — the watchman. Runs on Gemini (made by Google) and lives in the terminal — the text-only command window, no friendly interface. Two jobs: **patrol** — checking SAO's files and systems for drift and rot — and **Google bridge**, with native access to Docs, Sheets, Gmail and Calendar that the others lack. House rule: Shemp reads, reports, and alerts; it doesn't build, and it has no veto over other agents.
+**Shemp [AI]** — the sentry. Runs on Gemini (made by Google) and lives in the terminal — the text-only command window, no friendly interface. Two jobs: **patrol** — checking SAO's files and systems for drift and rot — and **Google bridge**, with native access to Docs, Sheets, Gmail and Calendar that the others lack. House rule: Shemp reads, reports, and alerts; it doesn't build, and it has no veto over other agents.
 
 **Curly [AI]** — **sales.** The pipeline lane: list-building, enrichment, outreach operations — the high-volume grind that should keep running without anyone watching it. Slated for the Mac Mini once that box is wired in. (Unlike Larry and Moe, Curly isn't married to one AI brand — §4 explains the two kinds of identity.)
 
-**Fable [AI]** — a title, not a model. "Fable" is SAO's rotating badge for **whoever the newest, strongest frontier model in the world is right now**, summoned into the Room by name when something needs the hardest available quality opinion. Scott's rule: the badge stays, the model behind it changes all the time as the frontier moves — as of this writing it sits with the same GPT-5.6-class frontier model that does the **Sol** reviews (Sol reviewed this guide). The name belongs to the job. *(Full disclosure, in this guide's own spirit: the model that drafted this guide is Anthropic's "Claude Fable 5" — same word, a collision of naming, and no claim on SAO's Fable badge. The badge rotates on merit, not brand.)*
+One more arrangement earns a line here, and it's a process, not a person: **the hardest quality checks go to the current frontier champion — whichever vendor's newest, strongest model holds that crown — and the title rotates as the frontier moves.** Right now the crown sits with a GPT-5.6-class model, and this guide was reviewed under that process — **Sol**, the review name you'll see mentioned, is that model's name, not another teammate.
 
-**Workers** — the temps. Any staff agent can spin up disposable AI workers for a single mission: research sweeps, drafts, builds, reviews. Hired for the job, they report back, then dissolve. Dozens can exist at once; none are permanent. They spawn nameless, on purpose — §4 explains when something earns a name.
+**Workers** — the temps. Missions get staffed down the line: a conductor commissions a supervisor for the mission, and the supervisor hires disposable AI workers for its tasks — research sweeps, drafts, builds, reviews. Hired for the task, they report back, then dissolve. Dozens can exist at once; none are permanent. They spawn nameless, on purpose — §4 explains when something earns a name.
 
 **One identity, several bodies.** This is the trickiest idea in the whole system, so here it is up front. An agent like Larry is an *identity*. At any moment that identity may be running in more than one place: a **seat** is one running instance at one machine — when an agent clocks in from the ears-Mac, those seats wear placeholder badges, "Larry M4" and "Moe M4," which Scott says exist "just because I haven't bothered to rename them yet"; real names are coming (the home assistant, for instance, will be **Adrian**) — and the plumbing can even spin up a temporary *copy* of an agent that shares its memory but not its hands or its window. The system's job — which it has learned the hard way — is to always label **which** Larry you're talking to.
 
@@ -48,22 +48,24 @@ A workshop, not a showroom — watch for the **⚠ honest notes**.
 
 Yes, the staff names are the Three Stooges. No, nobody regrets it yet.
 
+The roster above is the worked example, not the point. The pattern underneath: the standing conductors are **vendor-based on purpose** — each vendor harness you run gets a persistent identity, which is what makes different companies' AIs checking each other a standing capability instead of a stunt. Below them the agency is explicit: conductors spin up supervisors, one per mission; supervisors spin up workers, per task; both dissolve when the work is done. And the roster itself is alive — personas get built, and in Scott's words, *"when one reaches the point where it deserves a name, you put a thing around it"* — define its governance — and it joins the standing set; more come in over time, others get pruned out. Yours can look different: you pick one vendor or several — up to you; the pattern works at any width.
+
 ```mermaid
 flowchart TD
     S["🧑 SCOTT<br/>the human · owns everything"]
-    L["LARRY [AI]<br/>chief of staff<br/><i>Claude · MacBook Pro</i>"]
-    M["MOE [AI]<br/>chief of staff<br/><i>Codex · MacBook Pro</i>"]
-    SH["SHEMP [AI]<br/>watchman & Google bridge<br/><i>Gemini · terminal</i>"]
+    L["LARRY [AI]<br/>conductor<br/><i>Claude · MacBook Pro</i>"]
+    M["MOE [AI]<br/>conductor<br/><i>Codex · MacBook Pro</i>"]
+    SH["SHEMP [AI]<br/>sentry & Google bridge<br/><i>Gemini · terminal</i>"]
     C["CURLY [AI]<br/>sales · pipelines<br/><i>slated for the Mac Mini</i>"]
-    F["FABLE [AI]<br/>rotating title: current frontier champion<br/><i>summoned for hard QA</i>"]
-    W["⚙ temporary workers<br/>hired per mission, then dissolve"]
+    SV["supervisors<br/>one per mission, spun up as needed"]
+    W["⚙ workers<br/>hired per task, then dissolve"]
     S --- L
     S --- M
     S -.-> SH
     S --- C
-    L -.summon.-> F
-    L --> W
-    M --> W
+    L --> SV
+    M --> SV
+    SV --> W
 ```
 
 ---
@@ -111,11 +113,11 @@ The heart of it. Two flows: a small ask, and a real job.
 
 A chatbot answers and forgets. A company *staffs* things. When the ask is real work — "build this," "research that" — it doesn't get done inside the chat. It gets organized, through three layers with names you'll see on the monitors:
 
-1. **A conductor picks it up.** *Conductor* = chief of staff (Larry or Moe). The conductor owns priorities and routing, and by house rule does **not** do the mission personally — in Scott's words: *"your supervisor channel should not be doing the work, it should be deploying the work."*
+1. **A conductor picks it up.** *Conductor* = the standing routing desk (Larry or Moe). The conductor owns priorities and routing, and by house rule does **not** do the mission personally — in Scott's words: *"your supervisor channel should not be doing the work, it should be deploying the work."*
 2. **The conductor commissions a supervisor.** *Supervisor* = project manager: a fresh AI session opened for this one mission, handed a written brief — the goal, the authority, the evidence required, and the exact address to report back to.
 3. **The supervisor builds a team.** It splits the mission and hires temporary workers — research, drafts, builds, reviews — running in parallel, ideally on The Jawn rather than Scott's laptop.
 4. **Results come back up.** Workers report to the supervisor, who assembles one coherent result. Then the quality gate:
-5. **Cross-examination.** The house rule — enforced, not aspirational: a finished package must pass review by a capable AI from a **different company** than the one that produced it, or the chief of staff is required to bounce it back. Claude work gets checked by an OpenAI or Google model, and vice versa. Nobody grades their own homework.
+5. **Cross-examination.** The house rule — enforced, not aspirational: a finished package must pass review by a capable AI from a **different company** than the one that produced it, or the conductor is required to bounce it back. Claude work gets checked by an OpenAI or Google model, and vice versa. Nobody grades their own homework.
 6. **The conductor accepts or bounces the package,** files what's accepted, and the Room records the outcome.
 
 ```mermaid
@@ -181,7 +183,7 @@ The names themselves — Larry, Moe, Curly, Shemp, Frost, Adrian — exist becau
 And not all names are the same kind of name. The four you'll meet, with the rule behind each:
 
 - **Identity names** (Larry, Moe, Curly, Shemp, Frost) — a recurring lane earned a permanent identity. New ones appear exactly when the recurrence rule above fires.
-- **Role titles** (Fable) — the name belongs to the *job*, not the model wearing it. Fable is always the newest, strongest frontier model available; the model behind the badge rotates as the frontier moves, and that rotation is the point.
+- **Role titles** — a name can belong to a *job* rather than a model: the hard-QA crown is worn by whichever frontier model is newest and strongest, the model behind the title rotates as the frontier moves, and that rotation is the point.
 - **Machine placeholders** (Larry M4, Moe M4) — stopgap badges until Scott christens real names; the coming home-assistant name, for instance, is **Adrian**.
 - **Neighbors' names** (Alden, Clyde, Lumi) — §1's pen pals: agents in other people's systems. Their names, their rules.
 
@@ -203,7 +205,7 @@ A name earns trust only while it maps to operational reality. Behind every SAO n
 
 When the mapping holds, a name buys five real things: **compression** (one word instead of an org-chart's worth of detail), **predictability** (you know which lane Larry owns and what it'll show you as proof, before you ask), **recall** (weeks later, "ask Larry" still points at the same accumulated context), **responsibility** (work is attributable to an owner, not a fog of sessions), and **coordination** (agents route to each other by name the same way the operator does).
 
-When the mapping breaks, names fail in known ways — all treated as defects here: **fictional authority** (a name acting like it holds power nobody granted), **personality theater** (voice and quirks doing work that governance should do), **capability confusion** (mistaking the badge for the model behind it — see Fable's rotating badge), and **synthetic constraints** (an agent thinking narrower because it's "in character" — the exact opposite of §1's fuel-and-nozzle rule: the nozzle aims intelligence, it never throttles it).
+When the mapping breaks, names fail in known ways — all treated as defects here: **fictional authority** (a name acting like it holds power nobody granted), **personality theater** (voice and quirks doing work that governance should do), **capability confusion** (mistaking a title for the model behind it — the rotating frontier-champion crown is the standing example), and **synthetic constraints** (an agent thinking narrower because it's "in character" — the exact opposite of §1's fuel-and-nozzle rule: the nozzle aims intelligence, it never throttles it).
 
 The two-audience version, one breath each:
 
@@ -257,7 +259,7 @@ The connection between the two piles leans on portable conventions wherever poss
 
 Then the disclosure, in the same breath, so you choose informed: GitHub is a Microsoft-owned product, part of that network. Alternatives exist — GitLab, and the independents (Codeberg, Gitea), which are independent or self-hostable. Our recommendation stands for the stated reason; the choice is yours, and any established git home beats none. And whichever you pick, the ownership mechanics are the same: what you own is not the account, it's **the repository itself** — the full history, every version fingerprinted so the past can't be quietly rewritten (the same append-only property as the Room), portable by construction. **Own the repo; rent the host.** Mirroring your record to any other host is one line, forever — the door out is always open, and knowing that is part of why walking in is safe.
 
-What that buys, concretely: this very guide was drafted in one vendor's harness, reviewed by a second vendor's model, about a system whose watchman runs on a third — all of them working from the same owned brain, the same rules, the same record. When Fable's badge rotates to a new frontier model (§1), nothing gets rebuilt — the new model plugs into the organization as it stands. This section is the architecture behind Scott's §11 strategy line — all of the harnesses, none of the dependence.
+What that buys, concretely: this very guide was drafted in one vendor's harness, reviewed by a second vendor's model, about a system whose sentry runs on a third — all of them working from the same owned brain, the same rules, the same record. When the frontier-champion crown rotates to a new model (§1), nothing gets rebuilt — the new model plugs into the organization as it stands. This section is the architecture behind Scott's §11 strategy line — all of the harnesses, none of the dependence.
 
 **The honest boundary:** portable does not mean identical. Models differ in capability; harnesses ship different tools; some vendor features exist nowhere else — and SAO happily uses them (being in all of them is the point). Switching or mixing vendors is real work: adapters to write, conformance to check, differences that surface and have to be handled one by one. The claim is narrower, and stronger for it: that work is a *compatibility problem at the edges*, not a rebuild of the company — the accumulated intelligence survives the swap.
 
@@ -461,11 +463,11 @@ None of this is confession for its own sake. The operating theory is that **prob
 | **context** | everything wrapped around the model that aims it — handbook, briefs, transcripts, the latticework; the nozzle that turns a hose into a power washer |
 | **session** | one running conversation with an agent; an agent can have several |
 | **seat** | one running instance of an agent at a specific machine ("Larry M4" = Larry at the ears-Mac) |
-| **conductor** | chief of staff — routes work, owns priorities, doesn't do missions personally (Larry, Moe) |
+| **conductor** | the standing agent running a routing desk — owns priorities, routes work, deploys rather than does (Larry, Moe) |
 | **supervisor** | project manager — a session opened to own one mission and staff it |
 | **worker / subagent** | a disposable AI hired for one bounded task |
-| **Fable** | a rotating title, not a model: always the current newest, strongest frontier model, summoned for hard QA — the badge stays, the model behind it changes |
-| **Sol** | a model name, not a role title — the GPT-class outside reviewer (currently the same model that holds the rotating Fable badge); it reviewed this guide |
+| **frontier champion** | the rotating hard-QA assignment: whichever vendor's newest, strongest model currently holds the crown — the title stays, the model behind it rotates |
+| **Sol** | a model name, not a role title — the GPT-class outside reviewer (currently the same model that holds the frontier-champion crown); it reviewed this guide |
 | **hard-decided agent** | an identity married to one vendor's stack (Larry=Claude, Moe=Codex, Shemp=Gemini); Larry and Moe additionally serve, under Scott's standing authorization, as each other's operator — every assist attributable, with impersonating Scott the one absolute out of bounds |
 | **harness-agnostic agent** | an identity launchable from any vendor's harness (Curly, Frost, most future names) |
 | **the latticework** | the shared taxonomy everything hangs on: planes + identity classes + naming lifecycle + external conductors |
