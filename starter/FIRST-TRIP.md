@@ -56,7 +56,10 @@ The paste-able first instruction lives at [first-instruction.md](first-instructi
       cadence), and the **hygiene pass** (the automations themselves
       reviewed and cleaned on a cadence — a standing task nobody re-reads
       is where drift lives). What leaves is process notes, scrubbed; your
-      content and personal data never do. It will recommend yes as the
+      private content and personal data do not belong in the note. The email
+      envelope is the named exception: its sender address and display name
+      travel because that is how email works, and consenting to that channel
+      includes consenting to those fields. It will recommend yes as the
       default and tell you why. The decision is still entirely yours — no
       is a fine answer.
       Your agent must resolve the ask this session: it will bring "later"

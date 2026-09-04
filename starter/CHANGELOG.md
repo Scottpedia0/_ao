@@ -4,6 +4,14 @@ Every rename, retirement, and deprecation in this skeleton, dated, with the
 reason — the same debt-ledger practice the pattern's home repo runs. Your
 AO's own changes belong in your own ledger; this file tracks the skeleton.
 
+## 2026-09-04
+
+- **Tether privacy boundary made literal.** The quickstart, first-trip
+  checklist, and experience-sharing contract now distinguish the scrubbed
+  note body from email's unavoidable transport metadata. The sender address
+  and display name travel in the email envelope, and consenting to that
+  channel includes consenting to those fields.
+
 ## 2026-08-27
 
 - **Created.** Promoted from `starter/` in

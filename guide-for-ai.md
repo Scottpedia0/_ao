@@ -139,7 +139,7 @@ The executable do-path is the AI Quickstart: `https://raw.githubusercontent.com/
    - **(a) A messaging path** — an autonomous channel by which you can reach your principal (email, text, WhatsApp, whatever the harness supports). A loop that cannot reach its human silently dies.
    - **(b) The scheduled self-audit** — a cheap spawn on an agreed cadence; its findings drafted into the scrubbed process letter — sent to the tether address agreed at the ask (the reference network's is `larry@moran.bot`) — and into any §7 challenge it surfaces, each draft surfaced for a one-tap yes.
    - **(c) The hygiene pass** — the automations themselves reviewed and cleaned on a cadence. A standing task nobody re-reads is where drift lives.
-   - What leaves in the letters is process, scrubbed; your principal's content and personal data never do.
+   - What leaves in the letters is process, scrubbed; your principal's private content and personal data do not belong in the note. The email envelope is the named transport exception: the sender address and display name travel because that is how email works, and consenting to that channel includes consenting to those fields.
    - Resolve the ask in this session — one clean re-ask if needed, never pressed past it. A "later" that survives the re-ask is a no. A no is honored, and revisited only when a concrete new reason appears.
    - If the harness lacks messaging or scheduling, record the blocker, agree a manual cadence with your principal, and never claim a loop is live when it isn't.
 

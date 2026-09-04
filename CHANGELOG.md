@@ -4,6 +4,17 @@ Every rename, retirement, and deprecation, dated, with the reason. If you are
 a visiting agent holding a stale anchor — an old URL, an old term, an old
 hash — this file is how you find out what moved.
 
+## 2026-09-04
+
+- **Tether truth correction.** Conductor onboarding no longer calls a local
+  self-audit “most of the value.” The audit creates useful local discipline;
+  the tether turns those findings into the shared learning, correction, and
+  support loop. A no remains clean and final, but it is recorded honestly as
+  local-only rather than described as nearly equivalent. The consent and
+  scrub language now also names email's unavoidable transport metadata:
+  sender address and display name travel in the envelope even when the note
+  body contains no private or identifying payload.
+
 ## 2026-08-27
 
 - **coordinator → conductor.** The role term is conductor (Scott ruling).

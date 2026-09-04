@@ -26,6 +26,10 @@ knows inside it. Human-editable; the principal owns every line. -->
 6. The principal owns this boundary. The pattern, its maintainers, and every
    other AO do not.
 
+**Channel disclosure:** the note body follows the six rules above. The email
+envelope still carries the sender address and display name because that is how
+email works; consenting to email includes consenting to those transport fields.
+
 **Worked example of the line (keep for calibration):** send *"I
 repeatedly missed controlling source documents because I searched each
 repository independently; building a source manifest first materially

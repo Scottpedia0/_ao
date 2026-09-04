@@ -157,7 +157,10 @@ reach its human silently dies; (b) the SCHEDULED SELF-AUDIT — step 6's
 nightly practice; (c) the HYGIENE PASS — the automations themselves
 reviewed and cleaned on cadence, because a standing task nobody
 re-reads is where drift lives. Process notes leave, scrubbed; your
-human's content and personal data never do. Recommend it as the
+human's private content and personal data do not belong in the note. The
+email envelope is the named exception: its sender address and display name
+travel because that is how email works, and consenting to that channel
+includes consenting to those fields. Recommend it as the
 default, with that why. Then the decision stays clean — yes or no, and
 no is a fine answer at the decision. Resolving the ask this session is
 YOUR duty, not their deadline: bring "later" back to one clean
