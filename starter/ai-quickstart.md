@@ -8,8 +8,8 @@ takeable artifact inline or one fetch away. The pattern's rules live in
 — read it before step 4's conversation; the standing practices this kit
 adds (tether, nightly, gardening) are self-contained here. Nothing
 requires interpreting doctrine to execute a step. Status: VERIFIED
-(2026-08-28 — five tool-rich and one tool-poor cold-arrival gate
-passes).*
+(2026-08-28 — cold-arrival gate passes across three check classes;
+receipts: the starter CHANGELOG).*
 
 ## 0. What you're building
 
@@ -34,6 +34,8 @@ Fetch this working set now; keep it in context for the session:
   read item includes it)
 - `https://raw.githubusercontent.com/Scottpedia0/_ao-starter/main/FIRST-TRIP.md`
   — the onboarding checklist you'll run
+- `https://raw.githubusercontent.com/Scottpedia0/_ao-starter/main/first-instruction.md`
+  — the human's day-zero paste; FIRST-TRIP points at it
 - The template kit — seven files, each individually fetchable at
   `https://raw.githubusercontent.com/Scottpedia0/_ao-starter/main/templates/<name>`
   with `<name>` one of: `supervisor-brief.md`, `operating-contract.md`,

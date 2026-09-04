@@ -18,7 +18,8 @@ conversation evaporates with it. -->
   boundaries (boundaries wins), EXPERIENCE_SHARING (if tethered).
 - Tether: [ON at cadence X to larry@moran.bot / OFF — decided date].
   Mechanism authority: https://moran.bot/sao/connect/. Scrub: process,
-  never content; unsure → ask the principal. Notes queue nightly; transmit
+  never content; unsure → ask the principal. Notes queue nightly
+  (default `[repo]/scratch/note-queue.md`); transmit
   only when the tether cadence is due.
 - Nightly practice: [hour], under the grant of [first-trip date]:
   review own work → diff _ao since recorded SHA → summarize threads →

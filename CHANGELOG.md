@@ -197,3 +197,10 @@ hash — this file is how you find out what moved.
   honestly, and the consent guard: one clean re-ask, an unresolved "later"
   records as the no it is. §4 step 1: question sets arrive drafted from
   what already exists, never from a blank page — permission to scan first.
+- **Onboarding-ready (doctrine v18, kit v22).** The doctrine is compressed
+  for its reader: §4.5 tightens to the (a)(b)(c) checklist with the
+  advocacy carried as reason, not pressure; §7 goes bulleted; the artifact
+  table becomes three bullets — every ruled line verified surviving the
+  cut. One addition rides: the process letter names its destination (the
+  tether address agreed at the ask; the reference network's is
+  larry@moran.bot). The kit and templates take the same polish.

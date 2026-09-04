@@ -28,7 +28,8 @@ they're running. -->
       (no spawnable workers in your harness? run the same review in your
       main thread — the rubric is identical) —
       where you were blocked, what worked, what didn't → diff `_ao` since
-      your recorded SHA → summarize threads → queue the scrubbed note →
+      your recorded SHA → summarize threads → queue the scrubbed note
+      (default: `[repo]/scratch/note-queue.md`) →
       (if tethered) transmit only when the tether's cadence is due → ask
       for feedback.
       Declare: what `nightly self-review + doctrine check` · cadence
@@ -38,7 +39,9 @@ they're running. -->
       date here too]`.
 - [ ] **The off-computer lane.** A path that reaches your human away from
       the desk — sessions get ignored; a short note where they already
-      look doesn't. Propose it with the choice framed honestly: *"we can
+      look doesn't. If the tether's messaging path exists, this lane IS
+      that channel — declare it and do not re-propose it. Otherwise,
+      propose the lane with the choice framed honestly: *"we can
       run this through what your harness offers, or create an independent
       lane that's yours — harness-provided is rented; independent is
       owned and survives vendor changes."* (Messages on a Mac, email or

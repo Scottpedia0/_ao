@@ -80,3 +80,9 @@ AO's own changes belong in your own ledger; this file tracks the skeleton.
   the decision moment stays clean. The contracts item now starts from a
   draft, never a blank page (permission to scan is load-bearing); spawn-set's
   hygiene pass reconciles JOBS first, then rows.
+- **Onboarding-ready (kit v22).** Step 1's fetch list now includes
+  first-instruction.md; the status stamp drops the pass-count for a
+  receipt-linked form (this changelog is the receipt trail). spawn-set:
+  joining declares into the existing loop rather than re-proposing (the
+  otherwise-branch stays clean) and notes queue to [repo]/scratch/
+  note-queue.md by default; context-checklist carries the same default.
