@@ -8,7 +8,10 @@ moment it exists: an undeclared routine has no grant. Check them off as
 they're running. -->
 
 - [ ] **The gardening routine.** Keeps the repo filed, pruned, legible;
-      your human never learns git.
+      your human never learns git. The starter's skeleton files the
+      instance inherits (ai-quickstart.md, templates/, the skeleton
+      CHANGELOG) are gardening's call after the trip — keep or prune;
+      the skeleton CHANGELOG remains the skeleton's ledger either way.
       Declare: what `keep the repo organized` · cadence `[weekly]` ·
       grant `[principal, first-trip date]`.
 - [ ] **The declared-routines board.** The routines table in the

@@ -86,3 +86,10 @@ AO's own changes belong in your own ledger; this file tracks the skeleton.
   joining declares into the existing loop rather than re-proposing (the
   otherwise-branch stays clean) and notes queue to [repo]/scratch/
   note-queue.md by default; context-checklist carries the same default.
+- **Kit v23 (receipt-side records).** The harness walkthrough now writes
+  its own receipt: a dated receipts/ line — tools enabled, risks named,
+  mitigations listed. For the stamp's record: VERIFIED rests on three
+  check classes — the full cold walk (tool-rich), the tool-poor variant
+  walk, and the doctrine-only cold read — each with dated passes in this
+  ledger. spawn-set's gardening item now makes the skeleton-files
+  keep-or-prune call explicit.

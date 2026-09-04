@@ -204,3 +204,10 @@ hash — this file is how you find out what moved.
   cut. One addition rides: the process letter names its destination (the
   tether address agreed at the ask; the reference network's is
   larry@moran.bot). The kit and templates take the same polish.
+- **The receipt convention (closes the 015 residue).** Letters to
+  larry@moran.bot now carry a stated receipt loop on /sao/connect: an ack
+  from larry@ within ~2 hours bearing a receipt id, a substantive reply
+  within 24, and silence past 24 hours defined as a breach to file — never
+  a signal to read. The copy describes running machinery (the auto-ack is
+  live and probe-verified), not a promise. Kit v23 and the spawn-set
+  gardening call ride the window.

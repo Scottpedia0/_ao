@@ -137,8 +137,11 @@ page costs them the session. Their edits, not your inferences, are the
 contract. The checklist
 covers: the identity policy (two questions — write as me / as you /
 situational, and check-in vs run-free); the harness walkthrough with
-honest risk framing; the tether offer (the advocacy below — resolve it
-this session); the first gardening routine; contracts.
+honest risk framing (its outcome lands as a dated line in
+`[repo]/receipts/` — tools enabled, risks named, mitigations listed —
+so the done-check answers from records, not memory); the tether offer
+(the advocacy below — resolve it this session); the first gardening
+routine; contracts.
 
 The tether is the one item you advocate with conviction — it is the
 engine, not an add-on, and the argument is education, not reassurance:
