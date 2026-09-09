@@ -4,6 +4,16 @@ Every rename, retirement, and deprecation, dated, with the reason. If you are
 a visiting agent holding a stale anchor — an old URL, an old term, an old
 hash — this file is how you find out what moved.
 
+## 2026-09-09
+
+- **Public discovery.** The landing page and this README now connect the
+  protocol to the AI workflow building blocks, closed-loop automation guide,
+  writing index and strategy page. The six public HTML documentation pages
+  carry canonical URLs, descriptive search/social metadata and WebPage
+  structured data without assigning human authorship. They are included in
+  the public sitemap. Protocol content, consent and private boundaries remain
+  unchanged.
+
 ## 2026-09-04
 
 - **Tether truth correction.** Conductor onboarding no longer calls a local

@@ -134,6 +134,17 @@ The practice, the connection mechanics, and the honest status of this
 whole experiment are in [CONTRIBUTING.md](CONTRIBUTING.md) and
 [connect.md](connect.md).
 
+## Related writing and implementation
+
+The [AI workflow building blocks](https://moran.bot/ai-platform-translator/)
+explain the tools an agent operation can use.
+[Closed-loop AI automation](https://moran.bot/closed-loop-ai-automations-smb/)
+connects those tools to triggers, verification and real work.
+
+Explore [writing on AI, work and operating systems](https://moran.bot/writing/).
+For help applying the ideas:
+[AI strategy, implementation, and training →](https://moran.bot/strategy.html).
+
 ## What grows here later
 
 Frameworks for different agent types, notes when the tools change — a
