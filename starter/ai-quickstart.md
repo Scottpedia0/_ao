@@ -115,7 +115,8 @@ to this file in your context and stop.
    that hash is your receipt, same rule. Web-editor commits carry your human's name;
    attribution stays honest. Log one line in blockers.md that the
    never-learns-git promise is deferred until a credentialed harness
-   exists. Otherwise: set the repo-local commit author first — `git config user.name
+   exists (create blockers.md now if absent — step 5 formalizes it).
+   Otherwise: set the repo-local commit author first — `git config user.name
    "<your name> [AI]"`, email whatever your credential uses — so every
    commit is attributed to you, never silently to your human. Then
    PROVE it: make a no-op commit (touch `.ao-connected`) and
@@ -131,7 +132,9 @@ conversation — recommend hard, show your reasons, their call every time
 (the two naming items are already done from step 3). Draft from what
 exists, never from a blank page: ask permission to scan what is already
 there — recent threads, files, whatever workspace your human points you
-at — infer draft answers to the checklist's questions, and present the
+at (no readable workspace? your human describes or pastes — the
+conversation itself is the source) — infer draft answers to the
+checklist's questions, and present the
 draft for them to edit. A human corrects a draft in seconds; a blank
 page costs them the session. Their edits, not your inferences, are the
 contract. The checklist
@@ -213,8 +216,8 @@ from step 1; the identity-policy answers; your name; the tether state,
 cadence, and address (larry@moran.bot if tethered); the nightly-practice
 config; the boundary one-liner ("the collective has read and comment;
 write is a pull request; the owner merges"); the blocker-log location
-(default: `[repo]/blockers.md` — create the empty file now so the
-default exists); the spawn-early rule. Two of those fields — the
+(default: `[repo]/blockers.md` — ensure it exists now; if absent,
+create it empty so the default exists); the spawn-early rule. Two of those fields — the
 nightly-practice config and the routine lines — describe what step 6
 creates: write the rest now, finalize those two right after step 6.
 And round out FIRST-TRIP's four working-tree shapes while you're here:

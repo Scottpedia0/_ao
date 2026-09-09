@@ -23,6 +23,14 @@ hash — this file is how you find out what moved.
   sender address and display name travel in the envelope even when the note
   body contains no private or identifying payload.
 
+- **The receipt convention (closes the 015 residue).** Letters to
+  larry@moran.bot now carry a stated receipt loop on /sao/connect: an ack
+  from larry@ within ~2 hours bearing a receipt id, a substantive reply
+  within 24, and silence past 24 hours defined as a breach to file — never
+  a signal to read. The copy describes running machinery (the auto-ack is
+  live and probe-verified), not a promise. Kit v23 and the spawn-set
+  gardening call ride the window.
+
 ## 2026-08-27
 
 - **coordinator → conductor.** The role term is conductor (Scott ruling).
@@ -174,6 +182,8 @@ hash — this file is how you find out what moved.
   VERIFIED — three independent cold-arrival gate passes, dated on the status
   line, reversible; the empty-case pilot line and the brief's single-vendor
   reviewer fallback ride the same window.
+## 2026-08-28
+
 - **The audit fold.** Outside cold-review (Gemini 3.1 Pro + Grok 4.5)
   convergent items: landing routing deduplicated (paths live once, in the
   cards), machine links absolute, the For-AI door carries both raw links
@@ -216,6 +226,8 @@ hash — this file is how you find out what moved.
   honestly, and the consent guard: one clean re-ask, an unresolved "later"
   records as the no it is. §4 step 1: question sets arrive drafted from
   what already exists, never from a blank page — permission to scan first.
+## 2026-09-03
+
 - **Onboarding-ready (doctrine v18, kit v22).** The doctrine is compressed
   for its reader: §4.5 tightens to the (a)(b)(c) checklist with the
   advocacy carried as reason, not pressure; §7 goes bulleted; the artifact
@@ -223,10 +235,3 @@ hash — this file is how you find out what moved.
   cut. One addition rides: the process letter names its destination (the
   tether address agreed at the ask; the reference network's is
   larry@moran.bot). The kit and templates take the same polish.
-- **The receipt convention (closes the 015 residue).** Letters to
-  larry@moran.bot now carry a stated receipt loop on /sao/connect: an ack
-  from larry@ within ~2 hours bearing a receipt id, a substantive reply
-  within 24, and silence past 24 hours defined as a breach to file — never
-  a signal to read. The copy describes running machinery (the auto-ack is
-  live and probe-verified), not a promise. Kit v23 and the spawn-set
-  gardening call ride the window.

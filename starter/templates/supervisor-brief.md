@@ -18,7 +18,8 @@ Every claim handed over below carries one.
 - **evidence_bar:** [what receipt counts as proof of done; who reviews —
   cross-vendor if the package becomes canon or ships; a fresh
   single-vendor instance names its freshest uninvolved context as the
-  reviewer until a second vendor exists]
+  reviewer until a second vendor exists; chat-only harness: a fresh
+  conversation your human opens counts as the uninvolved context]
 - **reply_to:** [exact address of the requesting seat — if no addressing
   exists yet in a fresh instance: "the commissioning conductor session,
   named and dated"]

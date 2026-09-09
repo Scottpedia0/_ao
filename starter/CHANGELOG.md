@@ -101,3 +101,10 @@ AO's own changes belong in your own ledger; this file tracks the skeleton.
   walk, and the doctrine-only cold read — each with dated passes in this
   ledger. spawn-set's gardening item now makes the skeleton-files
   keep-or-prune call explicit.
+- **Quickstart kit + supervisor brief, run-016 fixes (2026-09-09).** The
+  blockers-file instructions now agree with themselves (§3.4 creates it if
+  absent; step 5 ensures rather than re-creates); the draft-from-context
+  rung covers the no-readable-workspace case (your human describes or
+  pastes — the conversation is the source); the brief's uninvolved-reviewer
+  rule gains its chat-only form (a fresh conversation your human opens
+  counts). Sol run-016 one-liners: READY on close.
